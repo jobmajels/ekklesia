@@ -1,0 +1,58 @@
+{
+  "subjectId": "chem_10_101",
+  "subjectName": "Chemistry",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "chem_10_ch1",
+      "chapterName": "Chemical Reactions and Equations",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch2",
+      "chapterName": "Acids, Bases and Salts",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch3",
+      "chapterName": "Metals and Non-metals",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch4",
+      "chapterName": "Carbon and its Compounds",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch5",
+      "chapterName": "Periodic Classification of Elements",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch6",
+      "chapterName": "Chemical Bonding",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch7",
+      "chapterName": "Organic Chemistry Basics",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch8",
+      "chapterName": "Environmental Chemistry",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch9",
+      "chapterName": "Water and its Properties",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "chem_10_ch10",
+      "chapterName": "Fuels and Combustion",
+      "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_10.pdf"
+    }
+  ]
+}

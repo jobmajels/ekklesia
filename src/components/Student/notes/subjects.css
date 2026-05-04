@@ -1,0 +1,26 @@
+.subbox{
+    background-color:rgb(225, 255, 245);
+    width:90%;
+    margin:1rem auto;
+    padding:1rem;
+     border-radius:0.5rem;
+     box-shadow:0 0 5px rgb(101, 114, 110);
+}
+.subbox .subjinfo{
+    display:flex;
+    justify-content:space-between;
+    margin:1rem 0;
+}
+.subbox .subjinfo span{
+    font-weight:600;
+    display:inline-block;
+    font-size:1.3rem;
+}
+.subbox .subjinfo a{
+    text-decoration:none;
+    font-weight:600;
+    color:rgb(229, 224, 234);
+    padding:0.5rem;
+    background-color:rgb(46, 108, 87);
+     border-radius:0.5rem;
+}

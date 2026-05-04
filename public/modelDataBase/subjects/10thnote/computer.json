@@ -1,0 +1,58 @@
+{
+  "subjectId": "cs_10_101",
+  "subjectName": "Computer Science",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/Computer/Computer_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "cs_10_ch1",
+      "chapterName": "Introduction to Computers",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch2",
+      "chapterName": "Components of Computer System",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch3",
+      "chapterName": "Operating System",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch4",
+      "chapterName": "Word Processing",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch5",
+      "chapterName": "Spreadsheet Basics",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch6",
+      "chapterName": "Presentation Software",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch7",
+      "chapterName": "Internet and Web",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch8",
+      "chapterName": "Cyber Safety",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch9",
+      "chapterName": "HTML Basics",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "cs_10_ch10",
+      "chapterName": "Introduction to Programming",
+      "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_10.pdf"
+    }
+  ]
+}

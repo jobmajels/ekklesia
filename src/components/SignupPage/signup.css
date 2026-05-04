@@ -1,0 +1,113 @@
+
+.logcontainer{
+    width:40vw;
+    background:linear-gradient(to bottom right, #174b4b, #174b4b, #2a7a7a);
+    margin:5vh auto;
+    border-radius:5px;
+    box-shadow:0 0 7px rgb(54, 52, 52);
+    font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+
+.logcontainer .logbox{
+    display:flex;
+    flex-direction:column;
+    width:90%;
+    height:100%;
+    background-color:rgba(255, 255, 255, 0.242);
+    margin:auto;
+    padding-left:1rem;
+    box-sizing:border-box;
+    border-right:solid 5px #a0d6b4;
+}
+
+.logcontainer .logbox h1{
+   color:#f8f9fa;
+   
+}
+
+.logcontainer .logbox .hrole{
+   padding-left:5rem;
+   color:#f8f9fa75;
+}
+
+.logcontainer .logbox form input{
+      background-color:#174b4b;
+      height:1.3rem;
+      color:white;
+      width:40%;
+      font-size:1rem;
+      border:solid 1px #a0d6b4;
+      padding:5px;
+      border-radius:5px;
+      margin-top:1rem;
+}
+.logcontainer .logbox form input::placeholder{
+    color:white;
+    color:#f1b44c;
+}
+
+.logcontainer .logbox form button{
+    margin:1rem 70%;
+    padding:0.5rem;
+     border-radius:20%;
+     border:none;
+     font-weight:600;
+     color:#174b4b;
+      box-shadow:0 0 7px #174b4b;
+}
+
+.logcontainer .logbox form button:hover{
+    background:linear-gradient(to right, #174b4b, #174b4b, #2a7a7a);
+    color:white;
+     border:solid 1px #a0d6b4;
+}
+
+
+.logcontainer .logbox form .schoolids{
+    width:20rem;
+    background-color:rgba(167, 38, 38, 0.242);
+    margin:0;
+    padding-left:1rem;
+    color:rgb(213, 206, 206);
+    display:none;
+}
+
+.logcontainer .logbox form #classlist{
+
+}
+
+.logcontainer .logbox form ul{
+    list-style:none;
+    background-color:rgba(167, 38, 38, 0.242);
+    width:4rem;
+     padding:0;
+     margin:0;
+     position:absolute;
+     z-index:2;
+     text-align:center;
+     margin-left:12rem;
+     top:60%
+}
+
+.logcontainer .logbox form ul li{
+    padding:0.2rem;
+       color:rgb(213, 206, 206);
+}
+.logcontainer .logbox form ul li:hover{
+    color:aqua;
+    cursor:pointer;
+}
+
+.logcontainer .logbox form .showeye{
+ position:relative;
+ right:2rem;
+ z-index:1;
+ color:#767e7e;
+}
+.logcontainer .logbox form .closseye{
+    position:relative;
+    right:2rem;
+    z-index:2;
+    color:#767e7e;
+}

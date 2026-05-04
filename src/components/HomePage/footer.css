@@ -1,0 +1,78 @@
+  .hsection4{
+            background-image:url("../../assets/images/footerimg2.jpg");
+            background-repeat: no-repeat;
+            background-position:center;
+            height:45vh;
+            background-size:cover;
+           
+          }
+
+           .hsection4 .footer{
+            background-color:rgba(0, 0, 0, 0.651);
+            width:100%;
+            height:93%;
+            display:flex;
+            gap:1rem;
+            justify-content:space-around;
+            color:white;
+            padding:0.5rem;
+            box-sizing:border-box;
+           }
+
+          
+           
+          .hsection4 .footer .appinfo{
+            width:25%;
+            text-align:justify;
+             color:rgb(186, 183, 183);
+           }
+            .hsection4 .footer .appinfo span{
+                 font-size:2rem;
+                background-color:rgb(255, 255, 255);
+                border-radius:0.5rem;
+           }
+
+             .hsection4 .footer .navigation .menu{
+              display:flex;
+              flex-direction:column;
+              
+             }
+
+           .hsection4 .footer .navigation .menu .menuitem{
+              text-decoration:none;
+              color:rgb(186, 183, 183);
+              padding:0.3rem;
+             }
+            .hsection4 .footer .navigation .menu .menuitem:hover{
+              cursor:pointer;
+              color:#ec6455;
+            }
+           .hsection4 .footer h3{
+              color:rgb(19, 226, 19);
+             }
+
+             .hsection4 .footer .contacts{
+                display:flex;
+                flex-direction:column;
+                width:25vw;
+                 color:rgb(186, 183, 183);
+              }
+               .hsection4 .footer .mailto span{
+                background-color:rgb(15, 159, 114);
+                padding:1px 0;
+                display:inline-block;
+                border-radius:0 10px 10px 0;
+              }
+
+
+              .hsection4 .headf{
+                display:inline-block;
+                padding-left:2rem;
+                color:#7056c7;
+                font-size:3rem;
+              }
+
+                .hsection4 .cpyright{
+                  padding-left:5vw;
+                  font-family:Arial, Helvetica, sans-serif;
+                }

@@ -1,0 +1,501 @@
+[{
+  "classId": "cls_9",
+  "className": "class-9th",
+  "subjects": [
+    {
+      "subjectName": "biology",
+      "syllabusPdf": "/pdfs/notes/9th/Biology/Biology_Syllabus.pdf",
+      "teacher": "saju",
+      "chapters": [
+        { "chapterId": "bio_9_ch1", "chapterName": "The Fundamental Unit of Life", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_1.pdf" },
+        { "chapterId": "bio_9_ch2", "chapterName": "Tissues", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_2.pdf" },
+        { "chapterId": "bio_9_ch3", "chapterName": "Diversity in Living Organisms", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_3.pdf" },
+        { "chapterId": "bio_9_ch4", "chapterName": "Why Do We Fall Ill", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_4.pdf" },
+        { "chapterId": "bio_9_ch5", "chapterName": "Natural Resources", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_5.pdf" },
+        { "chapterId": "bio_9_ch6", "chapterName": "Improvement in Food Resources", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_6.pdf" },
+        { "chapterId": "bio_9_ch7", "chapterName": "Cell Structure and Function", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_7.pdf" },
+        { "chapterId": "bio_9_ch8", "chapterName": "Plant Tissues", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_8.pdf" },
+        { "chapterId": "bio_9_ch9", "chapterName": "Animal Tissues", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_9.pdf" },
+        { "chapterId": "bio_9_ch10", "chapterName": "Health and Diseases", "notesPdf": "/pdfs/notes/9th/Biology/Biology_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "chemistry",
+      "syllabusPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Syllabus.pdf",
+      "teacher": "manu",
+      "chapters": [
+        { "chapterId": "chem_9_ch1", "chapterName": "Matter in Our Surroundings", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_1.pdf" },
+        { "chapterId": "chem_9_ch2", "chapterName": "Is Matter Around Us Pure", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_2.pdf" },
+        { "chapterId": "chem_9_ch3", "chapterName": "Atoms and Molecules", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_3.pdf" },
+        { "chapterId": "chem_9_ch4", "chapterName": "Structure of the Atom", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_4.pdf" },
+        { "chapterId": "chem_9_ch5", "chapterName": "The Fundamental Unit of Life", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_5.pdf" },
+        { "chapterId": "chem_9_ch6", "chapterName": "Tissues", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_6.pdf" },
+        { "chapterId": "chem_9_ch7", "chapterName": "Diversity in Living Organisms", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_7.pdf" },
+        { "chapterId": "chem_9_ch8", "chapterName": "Motion of Particles and Chemical Changes", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_8.pdf" },
+        { "chapterId": "chem_9_ch9", "chapterName": "Solutions and Mixtures", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_9.pdf" },
+        { "chapterId": "chem_9_ch10", "chapterName": "Natural Resources and Environmental Chemistry", "notesPdf": "/pdfs/notes/9th/Chemistry/Chemistry_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "physics",
+      "syllabusPdf": "/pdfs/notes/9th/Physics/Physics_Syllabus.pdf",
+      "teacher": "arun",
+      "chapters": [
+        { "chapterId": "phy_9_ch1", "chapterName": "Motion", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_1.pdf" },
+        { "chapterId": "phy_9_ch2", "chapterName": "Force and Laws of Motion", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_2.pdf" },
+        { "chapterId": "phy_9_ch3", "chapterName": "Gravitation", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_3.pdf" },
+        { "chapterId": "phy_9_ch4", "chapterName": "Work and Energy", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_4.pdf" },
+        { "chapterId": "phy_9_ch5", "chapterName": "Sound", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_5.pdf" },
+        { "chapterId": "phy_9_ch6", "chapterName": "Light", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_6.pdf" },
+        { "chapterId": "phy_9_ch7", "chapterName": "Heat", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_7.pdf" },
+        { "chapterId": "phy_9_ch8", "chapterName": "Electricity Basics", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_8.pdf" },
+        { "chapterId": "phy_9_ch9", "chapterName": "Magnetism", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_9.pdf" },
+        { "chapterId": "phy_9_ch10", "chapterName": "Energy Resources", "notesPdf": "/pdfs/notes/9th/Physics/Physics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "mathematics",
+      "syllabusPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Syllabus.pdf",
+      "teacher": "ravi",
+      "chapters": [
+        { "chapterId": "mat_9_ch1", "chapterName": "Number Systems", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_1.pdf" },
+        { "chapterId": "mat_9_ch2", "chapterName": "Polynomials", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_2.pdf" },
+        { "chapterId": "mat_9_ch3", "chapterName": "Coordinate Geometry", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_3.pdf" },
+        { "chapterId": "mat_9_ch4", "chapterName": "Linear Equations in Two Variables", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_4.pdf" },
+        { "chapterId": "mat_9_ch5", "chapterName": "Introduction to Euclid’s Geometry", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_5.pdf" },
+        { "chapterId": "mat_9_ch6", "chapterName": "Lines and Angles", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_6.pdf" },
+        { "chapterId": "mat_9_ch7", "chapterName": "Triangles", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_7.pdf" },
+        { "chapterId": "mat_9_ch8", "chapterName": "Quadrilaterals", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_8.pdf" },
+        { "chapterId": "mat_9_ch9", "chapterName": "Areas of Parallelograms and Triangles", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_9.pdf" },
+        { "chapterId": "mat_9_ch10", "chapterName": "Circles", "notesPdf": "/pdfs/notes/9th/Mathematics/Mathematics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "english",
+      "syllabusPdf": "/pdfs/notes/9th/English/English_Syllabus.pdf",
+      "teacher": "john",
+      "chapters": [
+        { "chapterId": "eng_9_ch1", "chapterName": "The Fun They Had", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_1.pdf" },
+        { "chapterId": "eng_9_ch2", "chapterName": "The Sound of Music", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_2.pdf" },
+        { "chapterId": "eng_9_ch3", "chapterName": "The Little Girl", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_3.pdf" },
+        { "chapterId": "eng_9_ch4", "chapterName": "A Truly Beautiful Mind", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_4.pdf" },
+        { "chapterId": "eng_9_ch5", "chapterName": "The Snake and the Mirror", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_5.pdf" },
+        { "chapterId": "eng_9_ch6", "chapterName": "My Childhood", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_6.pdf" },
+        { "chapterId": "eng_9_ch7", "chapterName": "Packing", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_7.pdf" },
+        { "chapterId": "eng_9_ch8", "chapterName": "Reach for the Top", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_8.pdf" },
+        { "chapterId": "eng_9_ch9", "chapterName": "The Bond of Love", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_9.pdf" },
+        { "chapterId": "eng_9_ch10", "chapterName": "Kathmandu", "notesPdf": "/pdfs/notes/9th/English/English_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "computer",
+      "syllabusPdf": "/pdfs/notes/9th/Computer/Computer_Syllabus.pdf",
+      "teacher": "rahul",
+      "chapters": [
+        { "chapterId": "com_9_ch1", "chapterName": "Introduction to Computers", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_1.pdf" },
+        { "chapterId": "com_9_ch2", "chapterName": "Computer System Organization", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_2.pdf" },
+        { "chapterId": "com_9_ch3", "chapterName": "Operating Systems Basics", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_3.pdf" },
+        { "chapterId": "com_9_ch4", "chapterName": "Number System and Data Representation", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_4.pdf" },
+        { "chapterId": "com_9_ch5", "chapterName": "Introduction to Programming", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_5.pdf" },
+        { "chapterId": "com_9_ch6", "chapterName": "Problem Solving Techniques", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_6.pdf" },
+        { "chapterId": "com_9_ch7", "chapterName": "HTML Basics", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_7.pdf" },
+        { "chapterId": "com_9_ch8", "chapterName": "Internet and Web Technologies", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_8.pdf" },
+        { "chapterId": "com_9_ch9", "chapterName": "Cyber Safety and Security", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_9.pdf" },
+        { "chapterId": "com_9_ch10", "chapterName": "Digital Applications and Tools", "notesPdf": "/pdfs/notes/9th/Computer/Computer_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+  "subjectName": "malayalam",
+  "syllabusPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Syllabus.pdf",
+  "teacher": "deepa",
+  "chapters": [
+    { "chapterId": "mal_9_ch1", "chapterName": "Poems (Kavithakal)", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_1.pdf" },
+    { "chapterId": "mal_9_ch2", "chapterName": "Prose (Gadyam)", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_2.pdf" },
+    { "chapterId": "mal_9_ch3", "chapterName": "Grammar Basics", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_3.pdf" },
+    { "chapterId": "mal_9_ch4", "chapterName": "Reading Comprehension", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_4.pdf" },
+    { "chapterId": "mal_9_ch5", "chapterName": "Writing Skills", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_5.pdf" },
+    { "chapterId": "mal_9_ch6", "chapterName": "Letters and Essays", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_6.pdf" },
+    { "chapterId": "mal_9_ch7", "chapterName": "Story (Kathakal)", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_7.pdf" },
+    { "chapterId": "mal_9_ch8", "chapterName": "Language Usage", "notesPdf": "/pdfs/notes/9th/Malayalam/Malayalam_Chapter_8.pdf" }
+  ]
+},
+
+    {
+      "subjectName": "history",
+      "syllabusPdf": "/pdfs/notes/9th/History/History_Syllabus.pdf",
+      "teacher": "anoop",
+      "chapters": [
+        { "chapterId": "his_9_ch1", "chapterName": "The French Revolution", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_1.pdf" },
+        { "chapterId": "his_9_ch2", "chapterName": "Socialism in Europe and the Russian Revolution", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_2.pdf" },
+        { "chapterId": "his_9_ch3", "chapterName": "Nazism and the Rise of Hitler", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_3.pdf" },
+        { "chapterId": "his_9_ch4", "chapterName": "Forest Society and Colonialism", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_4.pdf" },
+        { "chapterId": "his_9_ch5", "chapterName": "Pastoralists in the Modern World", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_5.pdf" },
+        { "chapterId": "his_9_ch6", "chapterName": "Peasants and Farmers", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_6.pdf" },
+        { "chapterId": "his_9_ch7", "chapterName": "History of Clothing", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_7.pdf" },
+        { "chapterId": "his_9_ch8", "chapterName": "History of Print Culture", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_8.pdf" },
+        { "chapterId": "his_9_ch9", "chapterName": "Industrial Revolution", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_9.pdf" },
+        { "chapterId": "his_9_ch10", "chapterName": "Modern World Developments", "notesPdf": "/pdfs/notes/9th/History/History_Chapter_10.pdf" }
+      ]
+    }
+  ]
+},
+
+{
+  "classId": "cls_10",
+  "className": "class-10th",
+  "subjects": [
+
+    {
+      "subjectName": "biology",
+      "syllabusPdf": "/pdfs/notes/10th/Biology/Biology_Syllabus.pdf",
+      "teacher": "saju",
+      "chapters": [
+        { "chapterId": "bio_10_ch1", "chapterName": "Life Processes", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_1.pdf" },
+        { "chapterId": "bio_10_ch2", "chapterName": "Control and Coordination", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_2.pdf" },
+        { "chapterId": "bio_10_ch3", "chapterName": "How do Organisms Reproduce", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_3.pdf" },
+        { "chapterId": "bio_10_ch4", "chapterName": "Heredity and Evolution", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_4.pdf" },
+        { "chapterId": "bio_10_ch5", "chapterName": "Our Environment", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_5.pdf" },
+        { "chapterId": "bio_10_ch6", "chapterName": "Management of Natural Resources", "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_6.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "chemistry",
+      "syllabusPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Syllabus.pdf",
+      "teacher": "manu",
+      "chapters": [
+        { "chapterId": "chem_10_ch1", "chapterName": "Chemical Reactions and Equations", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_1.pdf" },
+        { "chapterId": "chem_10_ch2", "chapterName": "Acids, Bases and Salts", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_2.pdf" },
+        { "chapterId": "chem_10_ch3", "chapterName": "Metals and Non-metals", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_3.pdf" },
+        { "chapterId": "chem_10_ch4", "chapterName": "Carbon and its Compounds", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_4.pdf" },
+        { "chapterId": "chem_10_ch5", "chapterName": "Periodic Classification of Elements", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_5.pdf" },
+        { "chapterId": "chem_10_ch6", "chapterName": "Chemical Bonding", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_6.pdf" },
+        { "chapterId": "chem_10_ch7", "chapterName": "Organic Chemistry Basics", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_7.pdf" },
+        { "chapterId": "chem_10_ch8", "chapterName": "Environmental Chemistry", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_8.pdf" },
+        { "chapterId": "chem_10_ch9", "chapterName": "Water and its Properties", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_9.pdf" },
+        { "chapterId": "chem_10_ch10", "chapterName": "Fuels and Combustion", "notesPdf": "/pdfs/notes/10th/Chemistry/Chemistry_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "physics",
+      "syllabusPdf": "/pdfs/notes/10th/Physics/Physics_Syllabus.pdf",
+      "teacher": "arun",
+      "chapters": [
+        { "chapterId": "phy_10_ch1", "chapterName": "Light - Reflection and Refraction", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_1.pdf" },
+        { "chapterId": "phy_10_ch2", "chapterName": "The Human Eye and the Colourful World", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_2.pdf" },
+        { "chapterId": "phy_10_ch3", "chapterName": "Electricity", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_3.pdf" },
+        { "chapterId": "phy_10_ch4", "chapterName": "Magnetic Effects of Electric Current", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_4.pdf" },
+        { "chapterId": "phy_10_ch5", "chapterName": "Sources of Energy", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_5.pdf" },
+        { "chapterId": "phy_10_ch6", "chapterName": "Reflection of Light", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_6.pdf" },
+        { "chapterId": "phy_10_ch7", "chapterName": "Refraction through Lenses", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_7.pdf" },
+        { "chapterId": "phy_10_ch8", "chapterName": "Electric Power", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_8.pdf" },
+        { "chapterId": "phy_10_ch9", "chapterName": "Electromagnetic Induction", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_9.pdf" },
+        { "chapterId": "phy_10_ch10", "chapterName": "Alternating Current Basics", "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "mathematics",
+      "syllabusPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Syllabus.pdf",
+      "teacher": "ravi",
+      "chapters": [
+        { "chapterId": "math_10_ch1", "chapterName": "Real Numbers", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_1.pdf" },
+        { "chapterId": "math_10_ch2", "chapterName": "Polynomials", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_2.pdf" },
+        { "chapterId": "math_10_ch3", "chapterName": "Pair of Linear Equations in Two Variables", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_3.pdf" },
+        { "chapterId": "math_10_ch4", "chapterName": "Quadratic Equations", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_4.pdf" },
+        { "chapterId": "math_10_ch5", "chapterName": "Arithmetic Progressions", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_5.pdf" },
+        { "chapterId": "math_10_ch6", "chapterName": "Triangles", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_6.pdf" },
+        { "chapterId": "math_10_ch7", "chapterName": "Coordinate Geometry", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_7.pdf" },
+        { "chapterId": "math_10_ch8", "chapterName": "Trigonometry", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_8.pdf" },
+        { "chapterId": "math_10_ch9", "chapterName": "Applications of Trigonometry", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_9.pdf" },
+        { "chapterId": "math_10_ch10", "chapterName": "Circles", "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "english",
+      "syllabusPdf": "/pdfs/notes/10th/English/English_Syllabus.pdf",
+      "teacher": "john",
+      "chapters": [
+        { "chapterId": "eng_10_ch1", "chapterName": "A Letter to God", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_1.pdf" },
+        { "chapterId": "eng_10_ch2", "chapterName": "Nelson Mandela: Long Walk to Freedom", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_2.pdf" },
+        { "chapterId": "eng_10_ch3", "chapterName": "Two Stories about Flying", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_3.pdf" },
+        { "chapterId": "eng_10_ch4", "chapterName": "From the Diary of Anne Frank", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_4.pdf" },
+        { "chapterId": "eng_10_ch5", "chapterName": "The Hundred Dresses", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_5.pdf" },
+        { "chapterId": "eng_10_ch6", "chapterName": "Glimpses of India", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_6.pdf" },
+        { "chapterId": "eng_10_ch7", "chapterName": "Mijbil the Otter", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_7.pdf" },
+        { "chapterId": "eng_10_ch8", "chapterName": "Madam Rides the Bus", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_8.pdf" },
+        { "chapterId": "eng_10_ch9", "chapterName": "The Sermon at Benares", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_9.pdf" },
+        { "chapterId": "eng_10_ch10", "chapterName": "The Proposal", "notesPdf": "/pdfs/notes/10th/English/English_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "computer",
+      "syllabusPdf": "/pdfs/notes/10th/Computer/Computer_Syllabus.pdf",
+      "teacher": "rahul",
+      "chapters": [
+        { "chapterId": "cs_10_ch1", "chapterName": "Introduction to Computers", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_1.pdf" },
+        { "chapterId": "cs_10_ch2", "chapterName": "Components of Computer System", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_2.pdf" },
+        { "chapterId": "cs_10_ch3", "chapterName": "Operating System", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_3.pdf" },
+        { "chapterId": "cs_10_ch4", "chapterName": "Word Processing", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_4.pdf" },
+        { "chapterId": "cs_10_ch5", "chapterName": "Spreadsheet Basics", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_5.pdf" },
+        { "chapterId": "cs_10_ch6", "chapterName": "Presentation Software", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_6.pdf" },
+        { "chapterId": "cs_10_ch7", "chapterName": "Internet and Web", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_7.pdf" },
+        { "chapterId": "cs_10_ch8", "chapterName": "Cyber Safety", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_8.pdf" },
+        { "chapterId": "cs_10_ch9", "chapterName": "HTML Basics", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_9.pdf" },
+        { "chapterId": "cs_10_ch10", "chapterName": "Introduction to Programming", "notesPdf": "/pdfs/notes/10th/Computer/Computer_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "malayalam",
+      "syllabusPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Syllabus.pdf",
+      "teacher": "deepa",
+      "chapters": [
+        { "chapterId": "mal_10_ch1", "chapterName": "കാവ്യം 1", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_1.pdf" },
+        { "chapterId": "mal_10_ch2", "chapterName": "കാവ്യം 2", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_2.pdf" },
+        { "chapterId": "mal_10_ch3", "chapterName": "കഥ 1", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_3.pdf" },
+        { "chapterId": "mal_10_ch4", "chapterName": "കഥ 2", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_4.pdf" },
+        { "chapterId": "mal_10_ch5", "chapterName": "നിബന്ധം 1", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_5.pdf" },
+        { "chapterId": "mal_10_ch6", "chapterName": "നിബന്ധം 2", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_6.pdf" },
+        { "chapterId": "mal_10_ch7", "chapterName": "നാടക ഭാഗം", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_7.pdf" },
+        { "chapterId": "mal_10_ch8", "chapterName": "ജീവചരിത്രം", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_8.pdf" },
+        { "chapterId": "mal_10_ch9", "chapterName": "ഭാഷാശാസ്ത്രം", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_9.pdf" },
+        { "chapterId": "mal_10_ch10", "chapterName": "സാഹിത്യ വിശകലനം", "notesPdf": "/pdfs/notes/10th/Malayalam/Malayalam_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "history",
+      "syllabusPdf": "/pdfs/notes/10th/History/History_Syllabus.pdf",
+      "teacher": "anoop",
+      "chapters": [
+        { "chapterId": "his_10_ch1", "chapterName": "The Rise of Nationalism in Europe", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_1.pdf" },
+        { "chapterId": "his_10_ch2", "chapterName": "Nationalism in India", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_2.pdf" },
+        { "chapterId": "his_10_ch3", "chapterName": "The Making of a Global World", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_3.pdf" },
+        { "chapterId": "his_10_ch4", "chapterName": "The Age of Industrialisation", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_4.pdf" },
+        { "chapterId": "his_10_ch5", "chapterName": "Print Culture and the Modern World", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_5.pdf" },
+        { "chapterId": "his_10_ch6", "chapterName": "Colonialism and the City", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_6.pdf" },
+        { "chapterId": "his_10_ch7", "chapterName": "Work, Life and Leisure", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_7.pdf" },
+        { "chapterId": "his_10_ch8", "chapterName": "Novels, Society and History", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_8.pdf" },
+        { "chapterId": "his_10_ch9", "chapterName": "The French Revolution", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_9.pdf" },
+        { "chapterId": "his_10_ch10", "chapterName": "India After Independence", "notesPdf": "/pdfs/notes/10th/History/History_Chapter_10.pdf" }
+      ]
+    }
+
+  ]
+},
+
+{
+  "classId": "cls_plus1",
+  "className": "class-plus1",
+  "subjects": [
+
+    {
+      "subjectName": "chemistry",
+      "syllabusPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Syllabus.pdf",
+      "teacher": "manu",
+      "chapters": [
+        { "chapterId": "chem_p1_ch1", "chapterName": "Some Basic Concepts of Chemistry", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_1.pdf" },
+        { "chapterId": "chem_p1_ch2", "chapterName": "Structure of Atom", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_2.pdf" },
+        { "chapterId": "chem_p1_ch3", "chapterName": "Classification of Elements and Periodicity", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_3.pdf" },
+        { "chapterId": "chem_p1_ch4", "chapterName": "Chemical Bonding and Molecular Structure", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_4.pdf" },
+        { "chapterId": "chem_p1_ch5", "chapterName": "States of Matter", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_5.pdf" },
+        { "chapterId": "chem_p1_ch6", "chapterName": "Thermodynamics", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_6.pdf" },
+        { "chapterId": "chem_p1_ch7", "chapterName": "Equilibrium", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_7.pdf" },
+        { "chapterId": "chem_p1_ch8", "chapterName": "Redox Reactions", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_8.pdf" },
+        { "chapterId": "chem_p1_ch9", "chapterName": "Hydrogen", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_9.pdf" },
+        { "chapterId": "chem_p1_ch10", "chapterName": "The s-Block Elements", "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "physics",
+      "syllabusPdf": "/pdfs/notes/plus1/Physics/Physics_Syllabus.pdf",
+      "teacher": "arun",
+      "chapters": [
+        { "chapterId": "phy_p1_ch1", "chapterName": "Physical World", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_1.pdf" },
+        { "chapterId": "phy_p1_ch2", "chapterName": "Units and Measurements", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_2.pdf" },
+        { "chapterId": "phy_p1_ch3", "chapterName": "Motion in a Straight Line", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_3.pdf" },
+        { "chapterId": "phy_p1_ch4", "chapterName": "Motion in a Plane", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_4.pdf" },
+        { "chapterId": "phy_p1_ch5", "chapterName": "Laws of Motion", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_5.pdf" },
+        { "chapterId": "phy_p1_ch6", "chapterName": "Work, Energy and Power", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_6.pdf" },
+        { "chapterId": "phy_p1_ch7", "chapterName": "System of Particles and Rotational Motion", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_7.pdf" },
+        { "chapterId": "phy_p1_ch8", "chapterName": "Gravitation", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_8.pdf" },
+        { "chapterId": "phy_p1_ch9", "chapterName": "Mechanical Properties of Solids", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_9.pdf" },
+        { "chapterId": "phy_p1_ch10", "chapterName": "Mechanical Properties of Fluids", "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "mathematics",
+      "syllabusPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Syllabus.pdf",
+      "teacher": "ravi",
+      "chapters": [
+        { "chapterId": "math_p1_ch1", "chapterName": "Sets", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_1.pdf" },
+        { "chapterId": "math_p1_ch2", "chapterName": "Relations and Functions", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_2.pdf" },
+        { "chapterId": "math_p1_ch3", "chapterName": "Trigonometric Functions", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_3.pdf" },
+        { "chapterId": "math_p1_ch4", "chapterName": "Principle of Mathematical Induction", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_4.pdf" },
+        { "chapterId": "math_p1_ch5", "chapterName": "Complex Numbers and Quadratic Equations", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_5.pdf" },
+        { "chapterId": "math_p1_ch6", "chapterName": "Linear Inequalities", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_6.pdf" },
+        { "chapterId": "math_p1_ch7", "chapterName": "Permutations and Combinations", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_7.pdf" },
+        { "chapterId": "math_p1_ch8", "chapterName": "Binomial Theorem", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_8.pdf" },
+        { "chapterId": "math_p1_ch9", "chapterName": "Sequences and Series", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_9.pdf" },
+        { "chapterId": "math_p1_ch10", "chapterName": "Straight Lines", "notesPdf": "/pdfs/notes/plus1/Mathematics/Mathematics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "computer",
+      "syllabusPdf": "/pdfs/notes/plus1/Computer/Computer_Syllabus.pdf",
+      "teacher": "rahul",
+      "chapters": [
+        { "chapterId": "cs_p1_ch1", "chapterName": "Introduction to Computer System", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_1.pdf" },
+        { "chapterId": "cs_p1_ch2", "chapterName": "Components of Computer", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_2.pdf" },
+        { "chapterId": "cs_p1_ch3", "chapterName": "Operating System Basics", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_3.pdf" },
+        { "chapterId": "cs_p1_ch4", "chapterName": "Data Representation", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_4.pdf" },
+        { "chapterId": "cs_p1_ch5", "chapterName": "Boolean Logic", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_5.pdf" },
+        { "chapterId": "cs_p1_ch6", "chapterName": "Problem Solving and Algorithms", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_6.pdf" },
+        { "chapterId": "cs_p1_ch7", "chapterName": "Programming Basics (C/Python)", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_7.pdf" },
+        { "chapterId": "cs_p1_ch8", "chapterName": "Input and Output Devices", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_8.pdf" },
+        { "chapterId": "cs_p1_ch9", "chapterName": "Memory and Storage Devices", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_9.pdf" },
+        { "chapterId": "cs_p1_ch10", "chapterName": "Introduction to Networking", "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "english",
+      "syllabusPdf": "/pdfs/notes/plus1/English/English_Syllabus.pdf",
+      "teacher": "john",
+      "chapters": [
+        { "chapterId": "eng_p1_ch1", "chapterName": "Reading Skills", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_1.pdf" },
+        { "chapterId": "eng_p1_ch2", "chapterName": "Writing Skills", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_2.pdf" },
+        { "chapterId": "eng_p1_ch3", "chapterName": "Grammar Basics", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_3.pdf" },
+        { "chapterId": "eng_p1_ch4", "chapterName": "The Portrait of a Lady", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_4.pdf" },
+        { "chapterId": "eng_p1_ch5", "chapterName": "A Photograph", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_5.pdf" },
+        { "chapterId": "eng_p1_ch6", "chapterName": "We’re Not Afraid to Die", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_6.pdf" },
+        { "chapterId": "eng_p1_ch7", "chapterName": "The Laburnum Top", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_7.pdf" },
+        { "chapterId": "eng_p1_ch8", "chapterName": "Discovering Tut", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_8.pdf" },
+        { "chapterId": "eng_p1_ch9", "chapterName": "The Voice of the Rain", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_9.pdf" },
+        { "chapterId": "eng_p1_ch10", "chapterName": "The Browning Version", "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "malayalam",
+      "syllabusPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Syllabus.pdf",
+      "teacher": "deepa",
+      "chapters": [
+        { "chapterId": "mal_p1_ch1", "chapterName": "കാവ്യം 1", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_1.pdf" },
+        { "chapterId": "mal_p1_ch2", "chapterName": "കാവ്യം 2", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_2.pdf" },
+        { "chapterId": "mal_p1_ch3", "chapterName": "കഥ 1", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_3.pdf" },
+        { "chapterId": "mal_p1_ch4", "chapterName": "കഥ 2", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_4.pdf" },
+        { "chapterId": "mal_p1_ch5", "chapterName": "നിബന്ധം 1", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_5.pdf" },
+        { "chapterId": "mal_p1_ch6", "chapterName": "നിബന്ധം 2", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_6.pdf" },
+        { "chapterId": "mal_p1_ch7", "chapterName": "നാടക ഭാഗം", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_7.pdf" },
+        { "chapterId": "mal_p1_ch8", "chapterName": "ജീവചരിത്രം", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_8.pdf" },
+        { "chapterId": "mal_p1_ch9", "chapterName": "ഭാഷാശാസ്ത്രം", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_9.pdf" },
+        { "chapterId": "mal_p1_ch10", "chapterName": "സാഹിത്യ പരിചയം", "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_10.pdf" }
+      ]
+    }
+
+  ]
+},
+ 
+{
+  "classId": "cls_plus2",
+  "className": "class-plus2",
+  "subjects": [
+
+    {
+      "subjectName": "chemistry",
+      "syllabusPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Syllabus.pdf",
+      "teacher": "manu",
+      "chapters": [
+        { "chapterId": "chem_p2_ch1", "chapterName": "Solid State", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_1.pdf" },
+        { "chapterId": "chem_p2_ch2", "chapterName": "Solutions", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_2.pdf" },
+        { "chapterId": "chem_p2_ch3", "chapterName": "Electrochemistry", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_3.pdf" },
+        { "chapterId": "chem_p2_ch4", "chapterName": "Chemical Kinetics", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_4.pdf" },
+        { "chapterId": "chem_p2_ch5", "chapterName": "Surface Chemistry", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_5.pdf" },
+        { "chapterId": "chem_p2_ch6", "chapterName": "Isolation of Elements", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_6.pdf" },
+        { "chapterId": "chem_p2_ch7", "chapterName": "p-Block Elements", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_7.pdf" },
+        { "chapterId": "chem_p2_ch8", "chapterName": "d and f Block Elements", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_8.pdf" },
+        { "chapterId": "chem_p2_ch9", "chapterName": "Coordination Compounds", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_9.pdf" },
+        { "chapterId": "chem_p2_ch10", "chapterName": "Haloalkanes and Haloarenes", "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "physics",
+      "syllabusPdf": "/pdfs/notes/plus2/Physics/Physics_Syllabus.pdf",
+      "teacher": "arun",
+      "chapters": [
+        { "chapterId": "phy_p2_ch1", "chapterName": "Electric Charges and Fields", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_1.pdf" },
+        { "chapterId": "phy_p2_ch2", "chapterName": "Electrostatic Potential", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_2.pdf" },
+        { "chapterId": "phy_p2_ch3", "chapterName": "Current Electricity", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_3.pdf" },
+        { "chapterId": "phy_p2_ch4", "chapterName": "Moving Charges and Magnetism", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_4.pdf" },
+        { "chapterId": "phy_p2_ch5", "chapterName": "Magnetism and Matter", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_5.pdf" },
+        { "chapterId": "phy_p2_ch6", "chapterName": "Electromagnetic Induction", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_6.pdf" },
+        { "chapterId": "phy_p2_ch7", "chapterName": "Alternating Current", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_7.pdf" },
+        { "chapterId": "phy_p2_ch8", "chapterName": "Electromagnetic Waves", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_8.pdf" },
+        { "chapterId": "phy_p2_ch9", "chapterName": "Ray Optics", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_9.pdf" },
+        { "chapterId": "phy_p2_ch10", "chapterName": "Wave Optics", "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "mathematics",
+      "syllabusPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Syllabus.pdf",
+      "teacher": "ravi",
+      "chapters": [
+        { "chapterId": "math_p2_ch1", "chapterName": "Relations and Functions", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_1.pdf" },
+        { "chapterId": "math_p2_ch2", "chapterName": "Inverse Trigonometric Functions", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_2.pdf" },
+        { "chapterId": "math_p2_ch3", "chapterName": "Matrices", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_3.pdf" },
+        { "chapterId": "math_p2_ch4", "chapterName": "Determinants", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_4.pdf" },
+        { "chapterId": "math_p2_ch5", "chapterName": "Continuity and Differentiability", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_5.pdf" },
+        { "chapterId": "math_p2_ch6", "chapterName": "Applications of Derivatives", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_6.pdf" },
+        { "chapterId": "math_p2_ch7", "chapterName": "Integrals", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_7.pdf" },
+        { "chapterId": "math_p2_ch8", "chapterName": "Applications of Integrals", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_8.pdf" },
+        { "chapterId": "math_p2_ch9", "chapterName": "Differential Equations", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_9.pdf" },
+        { "chapterId": "math_p2_ch10", "chapterName": "Vector Algebra", "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_10.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "english",
+      "syllabusPdf": "/pdfs/notes/plus2/English/English_Syllabus.pdf",
+      "teacher": "john",
+      "chapters": [
+        { "chapterId": "eng_p2_ch1", "chapterName": "Reading Skills", "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_1.pdf" },
+        { "chapterId": "eng_p2_ch2", "chapterName": "Writing Skills", "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_2.pdf" },
+        { "chapterId": "eng_p2_ch3", "chapterName": "Advanced Grammar", "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_3.pdf" },
+        { "chapterId": "eng_p2_ch4", "chapterName": "The Last Lesson", "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_4.pdf" },
+        { "chapterId": "eng_p2_ch5", "chapterName": "My Mother at Sixty-Six", "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_5.pdf" }
+      ]
+    },
+
+    {
+      "subjectName": "malayalam",
+      "syllabusPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Syllabus.pdf",
+      "teacher": "deepa",
+      "chapters": [
+        { "chapterId": "mal_p2_ch1", "chapterName": "കാവ്യം 1", "notesPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Chapter_1.pdf" },
+        { "chapterId": "mal_p2_ch2", "chapterName": "കാവ്യം 2", "notesPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Chapter_2.pdf" },
+        { "chapterId": "mal_p2_ch3", "chapterName": "കഥ 1", "notesPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Chapter_3.pdf" },
+        { "chapterId": "mal_p2_ch4", "chapterName": "നിബന്ധം", "notesPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Chapter_4.pdf" },
+        { "chapterId": "mal_p2_ch5", "chapterName": "സാഹിത്യ വിശകലനം", "notesPdf": "/pdfs/notes/plus2/Malayalam/Malayalam_Chapter_5.pdf" }
+      ]
+    }
+
+  ]
+}
+
+]

@@ -1,0 +1,33 @@
+.viewbox{
+    box-shadow: 0 0 5px rgb(127, 135, 225);
+    border-radius:0.3rem;
+}
+
+.viewbox .viewcontent{
+    border:4px solid rgb(142, 146, 190);
+    padding:2rem;
+    margin:1rem;
+    border-radius:2rem;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.viewbox .viewcontent span{
+    font-weight:600;
+    color:rgb(66, 70, 113);
+}
+
+.viewbox .viewcontent button{
+    margin:0;
+    padding:1rem;
+    border-radius:1rem;
+    background-color:rgb(127, 135, 225);
+    color:white;
+    border:none;
+    font-size:1.2rem
+}
+
+.viewbox .viewcontent button:hover{
+      background-color:rgb(43, 53, 167);
+}

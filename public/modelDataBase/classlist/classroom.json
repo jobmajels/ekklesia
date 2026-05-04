@@ -1,0 +1,97 @@
+[
+  {
+    "classId": "cls_9",
+    "teachers": [
+      {
+        "teacherid": "tch101a",
+        "subjects": ["Mathematics"]
+      },
+      {
+        "teacherid": "tch102b",
+        "subjects": ["Physics", "Chemistry"]
+      },
+      {
+        "teacherid": "tch103c",
+        "subjects": ["Computer", "Malayalam"]
+      },
+      {
+        "teacherid": "tch104d",
+        "subjects": ["English", "History"]
+      },
+      {
+        "teacherid": "tch105e",
+        "subjects": ["Biology"]
+      }
+    ]
+  },
+  {
+    "classId": "cls_10",
+    "teachers": [
+      {
+        "teacherid": "tch101a",
+        "subjects": ["Mathematics"]
+      },
+      {
+        "teacherid": "tch102b",
+        "subjects": ["Physics", "Chemistry"]
+      },
+      {
+        "teacherid": "tch103c",
+        "subjects": ["Computer", "Malayalam"]
+      },
+      {
+        "teacherid": "tch104d",
+        "subjects": ["English", "History"]
+      },
+      {
+        "teacherid": "tch105e",
+        "subjects": ["Biology"]
+      }
+    ]
+  },
+  {
+    "classId": "cls_plus1",
+    "teachers": [
+      {
+        "teacherid": "tch101a",
+        "subjects": ["Mathematics"]
+      },
+      {
+        "teacherid": "tch102b",
+        "subjects": ["Physics", "Chemistry"]
+      },
+      {
+        "teacherid": "tch103c",
+        "subjects": ["Computer", "Malayalam"]
+      },
+      {
+        "teacherid": "tch104d",
+        "subjects": ["English"]
+      }
+    ]
+  },
+  {
+    "classId": "cls_plus2",
+    "teachers": [
+      {
+        "teacherid": "tch101a",
+        "subjects": ["Mathematics"]
+      },
+      {
+        "teacherid": "tch102b",
+        "subjects": ["Physics", "Chemistry"]
+      },
+      {
+        "teacherid": "tch103c",
+        "subjects": ["Computer", "Malayalam"]
+      },
+      {
+        "teacherid": "tch104d",
+        "subjects": ["English"]
+      }
+    ]
+  }
+]
+
+
+

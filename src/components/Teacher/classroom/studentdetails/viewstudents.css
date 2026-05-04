@@ -1,0 +1,15 @@
+.viewmc{
+     background-color:rgb(240, 230, 239);
+     width:100vw;
+     height:100vh;
+     padding-top:20vh;
+     box-sizing:border-box;
+}
+
+.viewmbox{
+    background-color:rgb(201, 206, 252);
+    padding:2rem;
+    display:flex;
+    gap:1rem;
+    overflow-x:auto;
+}

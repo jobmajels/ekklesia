@@ -1,0 +1,58 @@
+{
+  "subjectId": "phy_10_101",
+  "subjectName": "Physics",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/Physics/Physics_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "phy_10_ch1",
+      "chapterName": "Light - Reflection and Refraction",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch2",
+      "chapterName": "The Human Eye and the Colourful World",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch3",
+      "chapterName": "Electricity",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch4",
+      "chapterName": "Magnetic Effects of Electric Current",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch5",
+      "chapterName": "Sources of Energy",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch6",
+      "chapterName": "Reflection of Light",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch7",
+      "chapterName": "Refraction through Lenses",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch8",
+      "chapterName": "Electric Power",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch9",
+      "chapterName": "Electromagnetic Induction",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "phy_10_ch10",
+      "chapterName": "Alternating Current Basics",
+      "notesPdf": "/pdfs/notes/10th/Physics/Physics_Chapter_10.pdf"
+    }
+  ]
+}

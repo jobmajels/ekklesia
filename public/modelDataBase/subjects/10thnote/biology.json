@@ -1,0 +1,58 @@
+{
+  "subjectId": "bio_10_101",
+  "subjectName": "Biology",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/Biology/Biology_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "bio_10_ch1",
+      "chapterName": "Life Processes",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch2",
+      "chapterName": "Control and Coordination",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch3",
+      "chapterName": "How do Organisms Reproduce",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch4",
+      "chapterName": "Heredity and Evolution",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch5",
+      "chapterName": "Our Environment",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch6",
+      "chapterName": "Management of Natural Resources",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch7",
+      "chapterName": "Diversity in Living Organisms",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch8",
+      "chapterName": "Cell Structure and Function",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch9",
+      "chapterName": "Tissues",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "bio_10_ch10",
+      "chapterName": "Improvement in Food Resources",
+      "notesPdf": "/pdfs/notes/10th/Biology/Biology_Chapter_10.pdf"
+    }
+  ]
+}

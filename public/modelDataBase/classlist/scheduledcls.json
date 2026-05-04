@@ -1,0 +1,726 @@
+[
+  {
+    "tid": "tch101a",
+    "clsid": "cls_9",
+    "schedules": [
+      {
+        "scheduleid": "sch_9_math_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch101a",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Mathematics",
+        "chapter": "Number Systems",
+        "topic": "Irrational Numbers on Number Line",
+        "time": "09:30"
+      },
+      {
+        "scheduleid": "sch_9_math_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch101a",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Mathematics",
+        "chapter": "Polynomials",
+        "topic": "Remainder Theorem",
+        "time": "11:45"
+      }
+    ]
+  },
+  {
+    "tid": "tch102b",
+    "clsid": "cls_9",
+    "schedules": [
+      {
+        "scheduleid": "sch_9_physics_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Physics",
+        "chapter": "Motion",
+        "topic": "Graphical Representation of Motion",
+        "time": "10:15"
+      },
+      {
+        "scheduleid": "sch_9_physics_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Physics",
+        "chapter": "Force and Laws of Motion",
+        "topic": "Newton's Third Law",
+        "time": "13:20"
+      },
+      {
+        "scheduleid": "sch_9_chemistry_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Chemistry",
+        "chapter": "Matter in Our Surroundings",
+        "topic": "Evaporation and Cooling Effect",
+        "time": "12:00"
+      },
+      {
+        "scheduleid": "sch_9_chemistry_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Chemistry",
+        "chapter": "Atoms and Molecules",
+        "topic": "Writing Chemical Formulae",
+        "time": "14:30"
+      }
+    ]
+  },
+  {
+    "tid": "tch103c",
+    "clsid": "cls_9",
+    "schedules": [
+      {
+        "scheduleid": "sch_9_computer_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Computer",
+        "chapter": "Introduction to Computers",
+        "topic": "Generations of Computers",
+        "time": "09:45"
+      },
+      {
+        "scheduleid": "sch_9_computer_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Computer",
+        "chapter": "HTML Basics",
+        "topic": "Creating a Simple Webpage",
+        "time": "15:10"
+      },
+      {
+        "scheduleid": "sch_9_malayalam_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Malayalam",
+        "chapter": "Poems (Kavithakal)",
+        "topic": "വൃത്തങ്ങളും യതികളും",
+        "time": "11:00"
+      },
+      {
+        "scheduleid": "sch_9_malayalam_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Malayalam",
+        "chapter": "Writing Skills",
+        "topic": "ഉപന്യാസ രചന",
+        "time": "13:50"
+      }
+    ]
+  },
+  {
+    "tid": "tch104d",
+    "clsid": "cls_9",
+    "schedules": [
+      {
+        "scheduleid": "sch_9_english_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "English",
+        "chapter": "The Fun They Had",
+        "topic": "Comparison of Traditional vs Future Schools",
+        "time": "10:30"
+      },
+      {
+        "scheduleid": "sch_9_english_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "English",
+        "chapter": "The Sound of Music",
+        "topic": "Bismillah Khan's Contribution",
+        "time": "12:45"
+      },
+      {
+        "scheduleid": "sch_9_history_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "History",
+        "chapter": "The French Revolution",
+        "topic": "Causes and Outcomes",
+        "time": "14:00"
+      },
+      {
+        "scheduleid": "sch_9_history_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "History",
+        "chapter": "Nazism and the Rise of Hitler",
+        "topic": "Hitler's Propaganda",
+        "time": "09:20"
+      }
+    ]
+  },
+  {
+    "tid": "tch105e",
+    "clsid": "cls_9",
+    "schedules": [
+      {
+        "scheduleid": "sch_9_biology_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch105e",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Biology",
+        "chapter": "The Fundamental Unit of Life",
+        "topic": "Cell Organelles and Their Functions",
+        "time": "09:00"
+      },
+      {
+        "scheduleid": "sch_9_biology_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch105e",
+        "clsid": "cls_9",
+        "classname": "class-9th",
+        "subject": "Biology",
+        "chapter": "Tissues",
+        "topic": "Meristematic and Permanent Tissues",
+        "time": "15:30"
+      }
+    ]
+  },
+  {
+    "tid": "tch101a",
+    "clsid": "cls_10",
+    "schedules": [
+      {
+        "scheduleid": "sch_10_math_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch101a",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Mathematics",
+        "chapter": "Real Numbers",
+        "topic": "Euclid's Division Lemma",
+        "time": "10:00"
+      },
+      {
+        "scheduleid": "sch_10_math_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch101a",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Mathematics",
+        "chapter": "Quadratic Equations",
+        "topic": "Solving by Quadratic Formula",
+        "time": "13:15"
+      }
+    ]
+  },
+  {
+    "tid": "tch102b",
+    "clsid": "cls_10",
+    "schedules": [
+      {
+        "scheduleid": "sch_10_physics_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Physics",
+        "chapter": "Light - Reflection and Refraction",
+        "topic": "Lens Formula and Magnification",
+        "time": "11:30"
+      },
+      {
+        "scheduleid": "sch_10_physics_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Physics",
+        "chapter": "Electricity",
+        "topic": "Ohm's Law and Resistance",
+        "time": "14:45"
+      },
+      {
+        "scheduleid": "sch_10_chemistry_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Chemistry",
+        "chapter": "Chemical Reactions and Equations",
+        "topic": "Balancing Chemical Equations",
+        "time": "09:15"
+      },
+      {
+        "scheduleid": "sch_10_chemistry_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Chemistry",
+        "chapter": "Carbon and its Compounds",
+        "topic": "Nomenclature of Hydrocarbons",
+        "time": "12:20"
+      }
+    ]
+  },
+  {
+    "tid": "tch103c",
+    "clsid": "cls_10",
+    "schedules": [
+      {
+        "scheduleid": "sch_10_computer_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Computer",
+        "chapter": "Spreadsheet Basics",
+        "topic": "Using Formulas and Functions",
+        "time": "13:40"
+      },
+      {
+        "scheduleid": "sch_10_computer_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Computer",
+        "chapter": "HTML Basics",
+        "topic": "Lists and Tables in HTML",
+        "time": "15:20"
+      },
+      {
+        "scheduleid": "sch_10_malayalam_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Malayalam",
+        "chapter": "കാവ്യം 1",
+        "topic": "വൃത്തവും രസവും",
+        "time": "10:50"
+      },
+      {
+        "scheduleid": "sch_10_malayalam_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Malayalam",
+        "chapter": "നിബന്ധം 1",
+        "topic": "ആശയവികാസം",
+        "time": "14:10"
+      }
+    ]
+  },
+  {
+    "tid": "tch104d",
+    "clsid": "cls_10",
+    "schedules": [
+      {
+        "scheduleid": "sch_10_english_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "English",
+        "chapter": "A Letter to God",
+        "topic": "Faith and Human Nature",
+        "time": "09:40"
+      },
+      {
+        "scheduleid": "sch_10_english_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "English",
+        "chapter": "Nelson Mandela: Long Walk to Freedom",
+        "topic": "Courage and Freedom",
+        "time": "12:10"
+      },
+      {
+        "scheduleid": "sch_10_history_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "History",
+        "chapter": "The Rise of Nationalism in Europe",
+        "topic": "Unification of Germany",
+        "time": "11:00"
+      },
+      {
+        "scheduleid": "sch_10_history_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "History",
+        "chapter": "Nationalism in India",
+        "topic": "Non-Cooperation Movement",
+        "time": "15:00"
+      }
+    ]
+  },
+  {
+    "tid": "tch105e",
+    "clsid": "cls_10",
+    "schedules": [
+      {
+        "scheduleid": "sch_10_biology_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch105e",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Biology",
+        "chapter": "Life Processes",
+        "topic": "Human Digestive System",
+        "time": "10:20"
+      },
+      {
+        "scheduleid": "sch_10_biology_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch105e",
+        "clsid": "cls_10",
+        "classname": "class-10th",
+        "subject": "Biology",
+        "chapter": "Heredity and Evolution",
+        "topic": "Mendel's Laws of Inheritance",
+        "time": "13:30"
+      }
+    ]
+  },
+  {
+    "tid": "tch101a",
+    "clsid": "cls_plus1",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus1_math_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch101a",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Mathematics",
+        "chapter": "Sets",
+        "topic": "Venn Diagrams and Operations",
+        "time": "11:15"
+      },
+      {
+        "scheduleid": "sch_plus1_math_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch101a",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Mathematics",
+        "chapter": "Trigonometric Functions",
+        "topic": "Radian Measure and Values",
+        "time": "14:20"
+      }
+    ]
+  },
+  {
+    "tid": "tch102b",
+    "clsid": "cls_plus1",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus1_physics_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Physics",
+        "chapter": "Units and Measurements",
+        "topic": "Dimensional Analysis",
+        "time": "09:50"
+      },
+      {
+        "scheduleid": "sch_plus1_physics_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Physics",
+        "chapter": "Laws of Motion",
+        "topic": "Friction and its Types",
+        "time": "12:30"
+      },
+      {
+        "scheduleid": "sch_plus1_chemistry_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Chemistry",
+        "chapter": "Structure of Atom",
+        "topic": "Quantum Numbers",
+        "time": "10:45"
+      },
+      {
+        "scheduleid": "sch_plus1_chemistry_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Chemistry",
+        "chapter": "Chemical Bonding",
+        "topic": "VSEPR Theory",
+        "time": "15:40"
+      }
+    ]
+  },
+  {
+    "tid": "tch103c",
+    "clsid": "cls_plus1",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus1_computer_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Computer",
+        "chapter": "Boolean Logic",
+        "topic": "Truth Tables and Gates",
+        "time": "13:00"
+      },
+      {
+        "scheduleid": "sch_plus1_computer_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Computer",
+        "chapter": "Programming Basics (C/Python)",
+        "topic": "Variables and Data Types",
+        "time": "09:30"
+      },
+      {
+        "scheduleid": "sch_plus1_malayalam_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Malayalam",
+        "chapter": "കഥ 1",
+        "topic": "കഥാസാരം വിശകലനം",
+        "time": "11:45"
+      },
+      {
+        "scheduleid": "sch_plus1_malayalam_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "Malayalam",
+        "chapter": "നാടക ഭാഗം",
+        "topic": "സംഭാഷണ ശൈലി",
+        "time": "14:50"
+      }
+    ]
+  },
+  {
+    "tid": "tch104d",
+    "clsid": "cls_plus1",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus1_english_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "English",
+        "chapter": "The Portrait of a Lady",
+        "topic": "Grandmother's Character Sketch",
+        "time": "12:15"
+      },
+      {
+        "scheduleid": "sch_plus1_english_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_plus1",
+        "classname": "plus1",
+        "subject": "English",
+        "chapter": "Writing Skills",
+        "topic": "Notice and Poster Writing",
+        "time": "15:15"
+      }
+    ]
+  },
+  {
+    "tid": "tch101a",
+    "clsid": "cls_plus2",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus2_math_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch101a",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Mathematics",
+        "chapter": "Matrices",
+        "topic": "Matrix Multiplication",
+        "time": "10:10"
+      },
+      {
+        "scheduleid": "sch_plus2_math_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch101a",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Mathematics",
+        "chapter": "Integrals",
+        "topic": "Integration by Substitution",
+        "time": "13:25"
+      }
+    ]
+  },
+  {
+    "tid": "tch102b",
+    "clsid": "cls_plus2",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus2_physics_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Physics",
+        "chapter": "Electric Charges and Fields",
+        "topic": "Coulomb's Law",
+        "time": "09:25"
+      },
+      {
+        "scheduleid": "sch_plus2_physics_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Physics",
+        "chapter": "Electromagnetic Induction",
+        "topic": "Faraday's Laws",
+        "time": "12:00"
+      },
+      {
+        "scheduleid": "sch_plus2_chemistry_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Chemistry",
+        "chapter": "Solutions",
+        "topic": "Raoult's Law",
+        "time": "14:35"
+      },
+      {
+        "scheduleid": "sch_plus2_chemistry_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch102b",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Chemistry",
+        "chapter": "Electrochemistry",
+        "topic": "Nernst Equation",
+        "time": "10:55"
+      }
+    ]
+  },
+  {
+    "tid": "tch103c",
+    "clsid": "cls_plus2",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus2_computer_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Computer",
+        "chapter": "Advanced Programming",
+        "topic": "Functions and Recursion",
+        "time": "11:20"
+      },
+      {
+        "scheduleid": "sch_plus2_computer_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Computer",
+        "chapter": "Networking",
+        "topic": "OSI Model",
+        "time": "15:50"
+      },
+      {
+        "scheduleid": "sch_plus2_malayalam_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Malayalam",
+        "chapter": "കാവ്യം 1",
+        "topic": "ഛന്ദസ്സ്",
+        "time": "13:45"
+      },
+      {
+        "scheduleid": "sch_plus2_malayalam_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch103c",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "Malayalam",
+        "chapter": "സാഹിത്യ വിശകലനം",
+        "topic": "ആസ്വാദനക്കുറിപ്പ്",
+        "time": "09:55"
+      }
+    ]
+  },
+  {
+    "tid": "tch104d",
+    "clsid": "cls_plus2",
+    "schedules": [
+      {
+        "scheduleid": "sch_plus2_english_today",
+        "scheduledate": "todaysclass",
+        "tid": "tch104d",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "English",
+        "chapter": "The Last Lesson",
+        "topic": "Linguistic Chauvinism",
+        "time": "12:40"
+      },
+      {
+        "scheduleid": "sch_plus2_english_tomorrow",
+        "scheduledate": "tomorrowclass",
+        "tid": "tch104d",
+        "clsid": "cls_plus2",
+        "classname": "plus2",
+        "subject": "English",
+        "chapter": "My Mother at Sixty-Six",
+        "topic": "Theme of Ageing",
+        "time": "14:05"
+      }
+    ]
+  }
+]

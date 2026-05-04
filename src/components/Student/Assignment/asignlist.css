@@ -1,0 +1,45 @@
+.subjlst{
+    width:90%;
+    display:flex;
+    justify-content:flex-start;
+    gap:2rem;
+    margin:1rem;
+    background-color:rgb(128, 15, 163);
+    padding:1rem;
+    border-radius:5px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    align-items:center;
+}
+
+
+
+.subjlst #btn1{
+    height:2rem;
+    margin-left:auto;
+}
+
+
+.question{
+    background-color:rgb(255, 255, 255);
+    color:black;
+    position:absolute;
+    margin-bottom:1rem;
+    display:flex;
+    gap:1rem;
+    flex-direction:column;
+    padding:1rem;
+    box-shadow:0 0 5px grey;
+    z-index:2;
+}
+
+.question button{
+    width:2rem;
+    margin-left:auto;
+
+}
+.question button:hover{
+    cursor:pointer;
+}
+
+

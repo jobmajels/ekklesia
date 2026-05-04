@@ -1,0 +1,58 @@
+{
+  "subjectId": "math_plus2_101",
+  "subjectName": "Mathematics",
+  "class": "Plus Two",
+  "syllabusPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "math_p2_ch1",
+      "chapterName": "Relations and Functions",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch2",
+      "chapterName": "Inverse Trigonometric Functions",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch3",
+      "chapterName": "Matrices",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch4",
+      "chapterName": "Determinants",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch5",
+      "chapterName": "Continuity and Differentiability",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch6",
+      "chapterName": "Applications of Derivatives",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch7",
+      "chapterName": "Integrals",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch8",
+      "chapterName": "Applications of Integrals",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch9",
+      "chapterName": "Differential Equations",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "math_p2_ch10",
+      "chapterName": "Vector Algebra",
+      "notesPdf": "/pdfs/notes/plus2/Mathematics/Mathematics_Chapter_10.pdf"
+    }
+  ]
+}

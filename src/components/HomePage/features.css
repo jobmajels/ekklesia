@@ -1,0 +1,86 @@
+.fbox{
+
+}
+
+.fbox .head{
+    width:100vw;
+    height:30vh;
+    background-color:rgb(218, 218, 218);
+    display:flex;
+    gap:2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top:2rem;
+    box-sizing:border-box;
+    align-items:center;
+    
+}
+
+.fbox .head .menuitem{
+    text-decoration:none;
+    color:white;
+    padding:1rem;
+    font-size:1.3rem;
+    border-radius:1rem;
+    color:rgb(97, 88, 88);
+}
+.fbox .head .menuitem:hover{
+    background-color:rgb(0, 0, 0);
+    color:rgb(214, 206, 206);
+}
+.fbox .head .active{
+  font-weight:600;
+ background-color:rgba(0, 0, 0, 0.701);
+  font-size:2rem;
+   padding:2rem;
+    color:rgb(214, 206, 206);
+}
+
+.fbox .mainsec{
+    display:flex;
+    flex-direction:column;
+    padding:1rem;
+    gap:1rem;
+    background-color:#f6f8fa;
+    margin-bottom:5rem;
+}
+.fbox .mainsec .fet1{
+    width:90vw;
+    height:60vh;
+    box-shadow: 0 0 4px grey;
+    display:flex;
+    justify-content:space-around;
+    gap:3rem;
+    box-sizing:border-box;
+    margin-top:2rem;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#ffffff;
+}
+.fbox .mainsec .fet1 .fet1desc{
+    padding:2rem 3rem;
+     box-sizing:border-box;
+     align-self:center;
+     text-align:justify;
+}
+
+
+.fbox .mainsec .fet2{
+   
+    align-self:flex-end;
+ 
+}
+.fbox .mainsec .fet3{
+       background-color:#cacaca;
+       box-shadow: 0 0 4px rgb(0, 0, 0);
+}
+
+.fbox .mainsec .fet5{
+      background-color:#f7f7f7;
+       box-shadow: 0 0 4px rgb(0, 0, 0);
+}
+
+.fbox .mainsec .fet6{
+       background-color:#b9d2fb;
+       box-shadow: 0 0 4px rgb(0, 0, 0);
+        align-self:flex-end;
+        
+}

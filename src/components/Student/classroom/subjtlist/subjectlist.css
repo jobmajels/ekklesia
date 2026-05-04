@@ -1,0 +1,30 @@
+
+.sbox{
+    
+    box-shadow:0 0 5px grey;
+    border-radius:5px;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color:rgb(255, 213, 128)
+}
+.sbox div span{
+    display:inline-block;
+}
+
+.sbox div{
+    border:1px solid rgb(255, 38, 0);
+   padding:1rem;
+   width:17vw;
+}
+
+
+.sbox button{
+    padding:0.5rem;
+    margin-bottom:10px;
+    border-radius:1rem;
+}
+.sbox button:hover{
+    cursor:pointer;
+    background-color:rgb(246, 255, 117);
+}

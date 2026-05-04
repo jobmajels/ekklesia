@@ -1,0 +1,58 @@
+{
+  "subjectId": "cs_plus1_101",
+  "subjectName": "Computer Science",
+  "class": "Plus One",
+  "syllabusPdf": "/pdfs/notes/plus1/Computer/Computer_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "cs_p1_ch1",
+      "chapterName": "Introduction to Computer System",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch2",
+      "chapterName": "Components of Computer",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch3",
+      "chapterName": "Operating System Basics",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch4",
+      "chapterName": "Data Representation",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch5",
+      "chapterName": "Boolean Logic",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch6",
+      "chapterName": "Problem Solving and Algorithms",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch7",
+      "chapterName": "Programming Basics (C/Python)",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch8",
+      "chapterName": "Input and Output Devices",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch9",
+      "chapterName": "Memory and Storage Devices",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "cs_p1_ch10",
+      "chapterName": "Introduction to Networking",
+      "notesPdf": "/pdfs/notes/plus1/Computer/Computer_Chapter_10.pdf"
+    }
+  ]
+}

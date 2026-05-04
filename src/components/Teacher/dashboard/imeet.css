@@ -1,0 +1,118 @@
+.imeetmainbox{
+    display:flex;
+     width:100vw;
+     height:100vh;
+     background-color:#eef2f4;
+     font-family:Arial, Helvetica, sans-serif;
+}
+.imeetmainbox .studDetails{
+        width:40vw;
+        height:100vh;
+}
+
+.imeetmainbox .studDetails .attendsec{
+        width:85%;
+        min-height:90%;
+        overflow-y:auto;
+        margin:5% auto;
+        border-radius:0.5rem;
+        padding:1rem;
+        box-sizing:border-box;
+        display:flex;
+        flex-direction:column;
+        box-shadow:0 0 7px grey;
+        background-color:white;
+        gap:0.5rem;
+}
+
+.imeetmainbox .studDetails .attendsec .studsec{
+    background-color:#eef2f4;
+    display:flex;
+    margin-top:5px;
+    justify-content:space-between;
+    align-items:center;
+    padding:0.5rem;
+     border-radius:1rem;
+     box-shadow:0 0 3px grey;
+}
+
+.imeetmainbox .studDetails .attendsec .studsec .sec1{
+     display:flex;
+     flex-direction:column;
+}
+
+.imeetmainbox .studDetails .attendsec .studsec .sec2{
+     display:flex;
+     gap:5px;
+}
+
+.imeetmainbox .studDetails .attendsec .studsec .sec2 .status{
+    padding:0.5rem;
+    background-color:white;
+    border-radius:40%;
+}
+.imeetmainbox .studDetails .attendsec .studsec .sec2 .status:hover{
+    cursor:pointer;
+}
+
+.imeetmainbox .meetsec{
+     background-color:#eef2f4;
+        width:60vw;
+        height:100vh;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        gap:3rem;
+}
+
+
+
+.imeetmainbox .meetsec .meetbox{
+      width:80%;
+      height:50%;
+      background-color:rgb(0, 0, 0);
+      margin-top:2rem;
+      display:flex;
+      flex-direction:column;
+      justify-content:flex-end;
+}
+
+.imeetmainbox .meetsec .meetbox .meetinter{
+     margin:auto;  
+}
+
+.imeetmainbox .meetsec .meetbox .meetfooter{
+      width:30%;
+      background-color:rgb(0, 0, 0);
+      margin-top:2rem;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      margin:0 auto;
+      gap:1rem;
+}
+
+.imeetmainbox .meetsec .meetbox .meetfooter:hover{
+    cursor:pointer;
+}
+
+
+.imeetmainbox .meetsec .currentmeetinfo{
+      width:40%;
+      padding:0.5rem;
+      background-color:white;
+      align-self:flex-start;
+      margin-left:10%;
+      border-radius:0.3rem;
+      box-shadow:0 0 7px grey;
+}
+
+.imeetmainbox .meetsec .currentmeetinfo h3{
+    margin:0;
+    border-bottom:1px solid grey;
+}
+
+.imeetmainbox .meetsec .currentmeetinfo h3 span{
+    font-weight:300;
+}

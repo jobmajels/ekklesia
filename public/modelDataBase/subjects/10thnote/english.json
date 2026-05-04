@@ -1,0 +1,58 @@
+{
+  "subjectId": "eng_10_101",
+  "subjectName": "English",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/English/English_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "eng_10_ch1",
+      "chapterName": "A Letter to God",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch2",
+      "chapterName": "Nelson Mandela: Long Walk to Freedom",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch3",
+      "chapterName": "Two Stories about Flying",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch4",
+      "chapterName": "From the Diary of Anne Frank",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch5",
+      "chapterName": "The Hundred Dresses",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch6",
+      "chapterName": "Glimpses of India",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch7",
+      "chapterName": "Mijbil the Otter",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch8",
+      "chapterName": "Madam Rides the Bus",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch9",
+      "chapterName": "The Sermon at Benares",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "eng_10_ch10",
+      "chapterName": "The Proposal",
+      "notesPdf": "/pdfs/notes/10th/English/English_Chapter_10.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "subjectId": "math_10_101",
+  "subjectName": "Mathematics",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "math_10_ch1",
+      "chapterName": "Real Numbers",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "math_10_ch2",
+      "chapterName": "Polynomials",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "math_10_ch3",
+      "chapterName": "Pair of Linear Equations in Two Variables",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "math_10_ch4",
+      "chapterName": "Quadratic Equations",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "math_10_ch5",
+      "chapterName": "Arithmetic Progressions",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "math_10_ch6",
+      "chapterName": "Triangles",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "math_10_ch7",
+      "chapterName": "Coordinate Geometry",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "math_10_ch8",
+      "chapterName": "Trigonometry",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "math_10_ch9",
+      "chapterName": "Applications of Trigonometry",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "math_10_ch10",
+      "chapterName": "Circles",
+      "notesPdf": "/pdfs/notes/10th/Mathematics/Mathematics_Chapter_10.pdf"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "subjectId": "mal_plus1_101",
+  "subjectName": "Malayalam",
+  "class": "Plus One",
+  "syllabusPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "mal_p1_ch1",
+      "chapterName": "കാവ്യം 1",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch2",
+      "chapterName": "കാവ്യം 2",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch3",
+      "chapterName": "കഥ 1",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch4",
+      "chapterName": "കഥ 2",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch5",
+      "chapterName": "നിബന്ധം 1",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch6",
+      "chapterName": "നിബന്ധം 2",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch7",
+      "chapterName": "നാടക ഭാഗം",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch8",
+      "chapterName": "ജീവചരിത്രം",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch9",
+      "chapterName": "ഭാഷാശാസ്ത്രം",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "mal_p1_ch10",
+      "chapterName": "സാഹിത്യ പരിചയം",
+      "notesPdf": "/pdfs/notes/plus1/Malayalam/Malayalam_Chapter_10.pdf"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  { "email": "arjun.ashok@gmail.com", "password": "Arjun@901" },
+  { "email": "meera.krishnan@gmail.com", "password": "Meera@902" },
+  { "email": "rahul.roy@gmail.com", "password": "Rahul@903" },
+  { "email": "anjali.kumart@gmail.com", "password": "Anjali@904" },
+  { "email": "vishnu.das@gmail.com", "password": "Vishnu@905" },
+
+  { "email": "rahul.das@gmail.com", "password": "RahulD@101" },
+  { "email": "sneha.antony@gmail.com", "password": "Sneha@102" },
+  { "email": "arun.varkky@gmail.com", "password": "Arun@103" },
+  { "email": "divya.nair@gmail.com", "password": "Divya@104" },
+  { "email": "kiran.abdul@gmail.com", "password": "Kiran@105" },
+
+  { "email": "annop.antony@gmail.com", "password": "Annop@201" },
+  { "email": "anu.dev@gmail.com", "password": "AnuDev@202" },
+  { "email": "rohit.nair@gmail.com", "password": "Rohit@203" },
+  { "email": "neha.aloshi@gmail.com", "password": "Neha@204" },
+  { "email": "akash.vinay@gmail.com", "password": "Akash@205" },
+
+  { "email": "vishnu.b@gmail.com", "password": "VishnuB@301" },
+  { "email": "anjali.raksh@gmail.com", "password": "AnjaliR@302" },
+  { "email": "sanjay.chandu@gmail.com", "password": "Sanjay@303" },
+  { "email": "divya.pillai@gmail.com", "password": "DivyaP@304" },
+  { "email": "aravind.kp@gmail.com", "password": "Aravind@305" }
+]

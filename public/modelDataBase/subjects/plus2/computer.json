@@ -1,0 +1,58 @@
+{
+  "subjectId": "cs_plus2_101",
+  "subjectName": "Computer Science",
+  "class": "Plus Two",
+  "syllabusPdf": "/pdfs/notes/plus2/Computer/Computer_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "cs_p2_ch1",
+      "chapterName": "Programming in Python",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch2",
+      "chapterName": "Data Structures",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch3",
+      "chapterName": "Database Management System",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch4",
+      "chapterName": "SQL Basics",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch5",
+      "chapterName": "Computer Networks",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch6",
+      "chapterName": "Web Development Basics",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch7",
+      "chapterName": "Boolean Algebra",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch8",
+      "chapterName": "Cyber Security",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch9",
+      "chapterName": "Operating System Concepts",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "cs_p2_ch10",
+      "chapterName": "Artificial Intelligence Basics",
+      "notesPdf": "/pdfs/notes/plus2/Computer/Computer_Chapter_10.pdf"
+    }
+  ]
+}

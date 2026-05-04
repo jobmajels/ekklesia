@@ -1,0 +1,58 @@
+{
+  "subjectId": "eng_plus1_101",
+  "subjectName": "English",
+  "class": "Plus One",
+  "syllabusPdf": "/pdfs/notes/plus1/English/English_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "eng_p1_ch1",
+      "chapterName": "Reading Skills",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch2",
+      "chapterName": "Writing Skills",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch3",
+      "chapterName": "Grammar Basics",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch4",
+      "chapterName": "Prose: The Portrait of a Lady",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch5",
+      "chapterName": "Poetry: A Photograph",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch6",
+      "chapterName": "Prose: We’re Not Afraid to Die",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch7",
+      "chapterName": "Poetry: The Laburnum Top",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch8",
+      "chapterName": "Prose: Discovering Tut",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch9",
+      "chapterName": "Poetry: The Voice of the Rain",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "eng_p1_ch10",
+      "chapterName": "Drama: The Browning Version",
+      "notesPdf": "/pdfs/notes/plus1/English/English_Chapter_10.pdf"
+    }
+  ]
+}

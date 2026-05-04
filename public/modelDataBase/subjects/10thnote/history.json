@@ -1,0 +1,60 @@
+{
+  "subjectId": "his_10_101",
+  "subjectName": "History",
+  "class": "10th",
+  "syllabusPdf": "/pdfs/notes/10th/History/History_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "his_10_ch1",
+      "chapterName": "The Rise of Nationalism in Europe",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "his_10_ch2",
+      "chapterName": "Nationalism in India",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "his_10_ch3",
+      "chapterName": "The Making of a Global World",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "his_10_ch4",
+      "chapterName": "The Age of Industrialisation",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "his_10_ch5",
+      "chapterName": "Print Culture and the Modern World",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "his_10_ch6",
+      "chapterName": "Colonialism and the City",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "his_10_ch7",
+      "chapterName": "Work, Life and Leisure",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "his_10_ch8",
+      "chapterName": "Novels, Society and History",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "his_10_ch9",
+      "chapterName": "The French Revolution",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "his_10_ch10",
+      "chapterName": "India After Independence",
+      "notesPdf": "/pdfs/notes/10th/History/History_Chapter_10.pdf"
+    }
+  ]
+
+  
+}

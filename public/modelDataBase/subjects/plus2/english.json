@@ -1,0 +1,58 @@
+{
+  "subjectId": "eng_plus2_101",
+  "subjectName": "English",
+  "class": "Plus Two",
+  "syllabusPdf": "/pdfs/notes/plus2/English/English_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "eng_p2_ch1",
+      "chapterName": "Reading Skills",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch2",
+      "chapterName": "Writing Skills",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch3",
+      "chapterName": "Advanced Grammar",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch4",
+      "chapterName": "Prose: The Last Lesson",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch5",
+      "chapterName": "Poetry: My Mother at Sixty-Six",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch6",
+      "chapterName": "Prose: Lost Spring",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch7",
+      "chapterName": "Poetry: Keeping Quiet",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch8",
+      "chapterName": "Prose: Deep Water",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch9",
+      "chapterName": "Poetry: A Thing of Beauty",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "eng_p2_ch10",
+      "chapterName": "Drama: The Interview",
+      "notesPdf": "/pdfs/notes/plus2/English/English_Chapter_10.pdf"
+    }
+  ]
+}

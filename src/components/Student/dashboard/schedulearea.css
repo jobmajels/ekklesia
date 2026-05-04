@@ -1,0 +1,60 @@
+.samainbox{
+display:flex;
+flex-direction:column;
+gap:2rem;
+padding:1rem;
+}
+
+ .samainbox .schhead{
+border-bottom:2px solid black;
+}
+.samainbox .todaysch{
+display:flex;
+flex-direction:column;
+gap:1rem;
+}
+
+.samainbox .todaysch .schlist{
+  display:flex;
+  background-color:#dfecf7;
+  justify-content:space-between;
+  align-items:center;
+  gap:1rem;
+  padding:0.5rem;
+  border-radius:1rem;
+}
+
+.samainbox .todaysch .schlist span{
+    width:20vw;
+}
+
+
+.samainbox .desc{
+    font-weight:700;
+}
+
+.samainbox .tommorsch{
+display:flex;
+flex-direction:column;
+gap:1rem;
+}
+.samainbox .tommorsch .schlist{
+display:flex;
+  background-color:#dfecf7;
+  justify-content:space-between;
+  align-items:center;
+  gap:1rem;
+  padding:0.5rem;
+   border-radius:1rem;
+}
+.samainbox .tommorsch .schlist span{
+    width:20vw;
+}
+
+.samainbox button{
+     background-color:#9ebcd6;
+}
+.samainbox button:hover{
+    cursor:pointer;
+       background-color:#7fa3c2;
+}

@@ -1,0 +1,20 @@
+.subjbox{
+    background-color:white;
+    width:80vw;
+    margin:3rem auto;
+    padding:1rem;
+    border-radius:1rem;
+    box-shadow:0 0 5px grey;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.subjbox .sec1{
+      background-color:rgb(231, 198, 255);
+      border-radius:1rem;
+}
+.subjbox .clsname{
+    font-weight:600;
+    display:inline-block;
+    margin:1rem;
+    font-size:1.5rem;
+}

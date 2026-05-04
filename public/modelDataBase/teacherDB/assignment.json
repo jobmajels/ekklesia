@@ -1,0 +1,1415 @@
+[
+  {
+    "clsId": "cls_9",
+    "tId": "tch101a",
+    "assignments": [
+      {
+        "subjectName": "Mathematics",
+        "assNo": "1",
+        "topic": "Number Systems",
+        "questions": [
+          "Express 0.333... in the form p/q.",
+          "Find the value of √(5+2√6).",
+          "Simplify: (3+√3)(2+√2).",
+          "Represent √3 on the number line."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "2",
+        "topic": "Polynomials",
+        "questions": [
+          "Find the remainder when x³ + 3x² + 3x + 1 is divided by x + 1.",
+          "Factorize: x² + 5x + 6.",
+          "If x + 1/x = 3, find x² + 1/x².",
+          "Is x = 2 a zero of the polynomial p(x) = x² - 5x + 6?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "3",
+        "topic": "Coordinate Geometry",
+        "questions": [
+          "Which quadrant does the point (-3, 4) lie in?",
+          "Find the distance between points (2,3) and (5,7).",
+          "Find the midpoint of the line joining (1,2) and (3,4).",
+          "Plot the points A(0,0), B(3,0), C(3,4) and name the shape."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "4",
+        "topic": "Linear Equations in Two Variables",
+        "questions": [
+          "Write any two solutions for the equation x + 2y = 5.",
+          "Draw the graph of y = 2x.",
+          "Find the value of k if x=2, y=1 is a solution of 2x + 3y = k.",
+          "Express y in terms of x: 2x + 3y = 12."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch102b",
+    "assignments": [
+      {
+        "subjectName": "Physics",
+        "assNo": "1",
+        "topic": "Motion",
+        "questions": [
+          "Define uniform circular motion. Give an example.",
+          "A car travels 100 km in 2 hours. Calculate its average speed.",
+          "What is the difference between speed and velocity?",
+          "A ball is thrown up with 20 m/s. Find maximum height (g=10 m/s²)."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "2",
+        "topic": "Force and Laws of Motion",
+        "questions": [
+          "State Newton's first law of motion with an example.",
+          "What is inertia? Explain its types.",
+          "A force of 10 N acts on a 2 kg mass. Find acceleration.",
+          "Why do we fall forward when a moving bus stops suddenly?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "3",
+        "topic": "Gravitation",
+        "questions": [
+          "State the universal law of gravitation.",
+          "What is the value of acceleration due to gravity on Earth?",
+          "Why does the moon not fall on the Earth?",
+          "Calculate the weight of a 5 kg object on the moon (g_moon = 1.63 m/s²)."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "4",
+        "topic": "Work and Energy",
+        "questions": [
+          "Define work. Give its SI unit.",
+          "What is kinetic energy? Derive its formula.",
+          "A 50 kg person climbs 5 m stairs. Find work done (g=10 m/s²).",
+          "State the law of conservation of energy with an example."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "1",
+        "topic": "Matter in Our Surroundings",
+        "questions": [
+          "Why does a gas fill a container completely?",
+          "Convert 25°C to Kelvin and 500 K to Celsius.",
+          "What is latent heat of vaporization?",
+          "Why do we feel cool when water evaporates from our skin?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "2",
+        "topic": "Is Matter Around Us Pure",
+        "questions": [
+          "What is the difference between a compound and a mixture?",
+          "How can you separate sand and water?",
+          "What is a saturated solution?",
+          "Define Tyndall effect with an example."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "3",
+        "topic": "Atoms and Molecules",
+        "questions": [
+          "State the law of conservation of mass.",
+          "What is the atomicity of O3, P4, and H2O?",
+          "Calculate the molecular mass of H2SO4 (H=1, S=32, O=16).",
+          "How many moles are in 22g of CO2?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "4",
+        "topic": "Structure of the Atom",
+        "questions": [
+          "What are the subatomic particles of an atom?",
+          "Draw the structure of a sodium atom (atomic number 11).",
+          "What is the difference between isotopes and isobars?",
+          "Why are electrons arranged in shells?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch103c",
+    "assignments": [
+      {
+        "subjectName": "Computer",
+        "assNo": "1",
+        "topic": "Introduction to Computers",
+        "questions": [
+          "What are the basic components of a computer?",
+          "Define RAM and ROM.",
+          "What is an operating system? Give two examples.",
+          "Convert binary 1011 to decimal."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "2",
+        "topic": "Operating Systems Basics",
+        "questions": [
+          "What are the functions of an operating system?",
+          "Differentiate between GUI and CUI.",
+          "What is a process?",
+          "Name any two mobile operating systems."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "3",
+        "topic": "HTML Basics",
+        "questions": [
+          "What does HTML stand for?",
+          "Write HTML code to display 'Hello World' in bold.",
+          "What is the difference between <ol> and <ul>?",
+          "How do you insert an image in HTML?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "4",
+        "topic": "Cyber Safety and Security",
+        "questions": [
+          "What is a computer virus?",
+          "What is a strong password? Give an example.",
+          "Define phishing.",
+          "Why should we not share personal information online?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "1",
+        "topic": "Poems (Kavithakal)",
+        "questions": [
+          "വൃത്തം എന്ത്? ഉദാഹരണം നൽകുക.",
+          "വെണ്ണക്കണ്ണൻ എന്ന കവിതയുടെ കവി ആര്?",
+          "പ്രാസം എന്താണ്?",
+          "കേരളത്തിലെ പ്രശസ്തമായ ഒരു ആധുനിക കവിതയുടെ പേര് എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "2",
+        "topic": "Prose (Gadyam)",
+        "questions": [
+          "ഗദ്യത്തിന്റെ സവിശേഷതകൾ എന്തൊക്കെ?",
+          "എം. ടി. വാസുദേവൻ നായരുടെ ഒരു പ്രശസ്ത ഗദ്യകൃതി ഏത്?",
+          "ലേഖനവും കഥയും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?",
+          "നിങ്ങളുടെ പ്രിയപ്പെട്ട ഗദ്യകൃതി ഏത്? എന്തുകൊണ്ട്?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "3",
+        "topic": "Grammar Basics",
+        "questions": [
+          "സന്ധി എന്ത്? ഉദാഹരണം തരിക.",
+          "സമാസം എത്ര തരം?",
+          "പ്രത്യയം എന്ത്? ഒരു ഉദാഹരണം എഴുതുക.",
+          "ഭാഷയുടെ മൂലഘടകങ്ങൾ ഏതെല്ലാം?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "4",
+        "topic": "Writing Skills",
+        "questions": [
+          "ഒരു അധ്യാപകന് നന്ദി പറഞ്ഞ് ഒരു കത്ത് എഴുതുക.",
+          "എന്റെ പ്രിയപ്പെട്ട പുസ്തകം എന്ന വിഷയത്തിൽ ഒരു ഖണ്ഡിക എഴുതുക.",
+          "ഒരു ഉപന്യാസത്തിന്റെ ഘടന എങ്ങനെയായിരിക്കണം?",
+          "യാത്രാവിവരണത്തിന്റെ സവിശേഷതകൾ എഴുതുക."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch104d",
+    "assignments": [
+      {
+        "subjectName": "English",
+        "assNo": "1",
+        "topic": "The Fun They Had",
+        "questions": [
+          "Who are Tommy and Margie?",
+          "How did the old schools look like?",
+          "Why did Margie hate the mechanical teacher?",
+          "What did Tommy find in the attic?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "2",
+        "topic": "The Sound of Music",
+        "questions": [
+          "Who is Evelyn Glennie?",
+          "How did Evelyn lose her hearing?",
+          "What message does her story give?",
+          "Who helped Evelyn to learn music?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "3",
+        "topic": "The Little Girl",
+        "questions": [
+          "What was Kezia's fear?",
+          "How did her father change at the end of the story?",
+          "Why did Kezia tear the papers?",
+          "What did Kezia dream about?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "4",
+        "topic": "Grammar and Writing",
+        "questions": [
+          "Fill in the blank: She ___ (go) to school every day.",
+          "Change to passive voice: 'The boy eats an apple.'",
+          "Write a paragraph on 'My Best Friend'.",
+          "Write a letter to your friend inviting them to your birthday party."
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "1",
+        "topic": "The French Revolution",
+        "questions": [
+          "When did the French Revolution begin?",
+          "Who was Napoleon Bonaparte?",
+          "What is the Reign of Terror?",
+          "Explain the slogan of the French Revolution."
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "2",
+        "topic": "Socialism in Europe",
+        "questions": [
+          "What was the Russian Revolution?",
+          "Who was Karl Marx?",
+          "What is the difference between Socialism and Capitalism?",
+          "When did the Russian Revolution take place?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "3",
+        "topic": "Nazism and the Rise of Hitler",
+        "questions": [
+          "Who was Adolf Hitler?",
+          "What was the Nazi ideology?",
+          "When did World War II start?",
+          "What was the Holocaust?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "4",
+        "topic": "Forest Society and Colonialism",
+        "questions": [
+          "How did colonialism affect forests in India?",
+          "What was the Forest Act of 1865?",
+          "Who were shifting cultivators?",
+          "What is deforestation? Give two causes."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch105e",
+    "assignments": [
+      {
+        "subjectName": "Biology",
+        "assNo": "1",
+        "topic": "The Fundamental Unit of Life",
+        "questions": [
+          "Who discovered the cell?",
+          "What is the function of the nucleus?",
+          "Differentiate between prokaryotic and eukaryotic cells.",
+          "Why is the cell called the structural and functional unit of life?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "2",
+        "topic": "Tissues",
+        "questions": [
+          "What are the four types of animal tissues?",
+          "What is the function of xylem?",
+          "Where is meristematic tissue found?",
+          "Differentiate between voluntary and involuntary muscles."
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "3",
+        "topic": "Diversity in Living Organisms",
+        "questions": [
+          "What is the five-kingdom classification?",
+          "Who proposed the five-kingdom classification?",
+          "Give two examples of mammals.",
+          "What is the difference between vertebrates and invertebrates?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "4",
+        "topic": "Why Do We Fall Ill",
+        "questions": [
+          "What is a pathogen?",
+          "Give two examples of bacterial diseases.",
+          "How can we prevent malaria?",
+          "What is the difference between infectious and non-infectious diseases?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "5",
+        "topic": "Natural Resources",
+        "questions": [
+          "What is the water cycle?",
+          "What are renewable and non-renewable resources?",
+          "Why is soil important?",
+          "What is the greenhouse effect?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "6",
+        "topic": "Improvement in Food Resources",
+        "questions": [
+          "What is crop rotation?",
+          "What are fertilizers and manures?",
+          "What is animal husbandry?",
+          "How does irrigation help in agriculture?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch101a",
+    "assignments": [
+      {
+        "subjectName": "Mathematics",
+        "assNo": "1",
+        "topic": "Real Numbers",
+        "questions": [
+          "Find the HCF of 135 and 225 using Euclid's division lemma.",
+          "Prove that √2 is irrational.",
+          "What is a terminating decimal? Give an example.",
+          "Find the LCM of 12 and 18 using prime factorization."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "2",
+        "topic": "Polynomials",
+        "questions": [
+          "Find the zeros of p(x) = x² - 5x + 6.",
+          "Divide x³ - 3x² + 5x - 3 by x - 1.",
+          "If α and β are zeros of x² + 5x + 6, find α + β and αβ.",
+          "What is the degree of the polynomial 4x³ + 2x² - x + 7?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "3",
+        "topic": "Pair of Linear Equations",
+        "questions": [
+          "Solve: x + y = 5 and 2x - y = 4.",
+          "How many solutions does the pair x + y = 5 and 2x + 2y = 10 have?",
+          "The sum of two numbers is 20 and their difference is 4. Find the numbers.",
+          "Solve graphically: x + y = 5 and x - y = 1."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "4",
+        "topic": "Quadratic Equations",
+        "questions": [
+          "Solve x² - 5x + 6 = 0 by factorization.",
+          "Find the discriminant of 2x² - 4x + 2 = 0.",
+          "What is the nature of roots of x² + 4x + 5 = 0?",
+          "Find k if x=2 is a root of x² + kx - 6 = 0."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch102b",
+    "assignments": [
+      {
+        "subjectName": "Physics",
+        "assNo": "1",
+        "topic": "Light - Reflection and Refraction",
+        "questions": [
+          "State the laws of reflection of light.",
+          "What is the focal length of a spherical mirror?",
+          "A convex mirror has a radius of curvature of 40 cm. Find its focal length.",
+          "Why does a ray of light bend when it enters water from air?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "2",
+        "topic": "The Human Eye",
+        "questions": [
+          "What is the function of the iris?",
+          "What is myopia? How can it be corrected?",
+          "What is the near point of a normal human eye?",
+          "Why do we see a rainbow?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "3",
+        "topic": "Electricity",
+        "questions": [
+          "State Ohm's law.",
+          "What is the resistance of a conductor?",
+          "Three resistors 2Ω, 3Ω, 5Ω are connected in series. Find total resistance.",
+          "Calculate the current if 10 V is applied across 5 Ω resistor."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "4",
+        "topic": "Magnetic Effects of Current",
+        "questions": [
+          "What is an electromagnet?",
+          "State Fleming's left-hand rule.",
+          "What is a solenoid?",
+          "How does an electric motor work?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "1",
+        "topic": "Chemical Reactions and Equations",
+        "questions": [
+          "Balance the equation: Fe + H₂O → Fe₃O₄ + H₂",
+          "What is a combination reaction? Give an example.",
+          "Why is respiration considered an exothermic reaction?",
+          "What is rancidity? How can it be prevented?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "2",
+        "topic": "Acids, Bases and Salts",
+        "questions": [
+          "What is the pH of pure water?",
+          "What happens when an acid reacts with a base?",
+          "Name two indicators used to test acids and bases.",
+          "Why does HCl gas not change dry litmus paper?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "3",
+        "topic": "Metals and Non-metals",
+        "questions": [
+          "Why is sodium stored in kerosene?",
+          "What is reactivity series?",
+          "Give two properties of metals.",
+          "What happens when iron reacts with copper sulfate solution?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "4",
+        "topic": "Carbon and its Compounds",
+        "questions": [
+          "What is the valency of carbon?",
+          "What is the difference between saturated and unsaturated hydrocarbons?",
+          "What is the functional group of alcohols?",
+          "Why is carbon called tetravalent?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch103c",
+    "assignments": [
+      {
+        "subjectName": "Computer",
+        "assNo": "1",
+        "topic": "HTML Basics",
+        "questions": [
+          "What is the structure of an HTML document?",
+          "Write HTML code to create a table with 2 rows and 2 columns.",
+          "What is the use of <a> tag?",
+          "How do you add a background color in HTML?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "2",
+        "topic": "Cyber Safety",
+        "questions": [
+          "What is a firewall?",
+          "What is cyberbullying? How to avoid it?",
+          "What is two-factor authentication?",
+          "Why should you avoid public Wi-Fi for banking?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "3",
+        "topic": "Programming Basics",
+        "questions": [
+          "What is a variable in programming?",
+          "Write a Python program to print the sum of two numbers.",
+          "What is an if-else statement?",
+          "What is the difference between = and == in programming?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "4",
+        "topic": "Spreadsheet Basics",
+        "questions": [
+          "What is a cell in Excel?",
+          "Write the formula to add A1 and B1.",
+          "What is the difference between rows and columns?",
+          "What is a function in spreadsheet? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "1",
+        "topic": "Kavithakal (Poems)",
+        "questions": [
+          "കുമാരനാശാന്റെ ഒരു പ്രശസ്ത കൃതി ഏത്?",
+          "വള്ളത്തോളിന്റെ ഒരു കവിതയുടെ പേര് എഴുതുക.",
+          "ആധുനിക മലയാള കവിതയിലെ ഒരു പ്രധാന പ്രസ്ഥാനമേത്?",
+          "ഒരു കവിതയിലെ താളം എങ്ങനെ നിർണയിക്കാം?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "2",
+        "topic": "Nibandham (Essay)",
+        "questions": [
+          "ഒരു നിബന്ധനത്തിന്റെ ഘടന വിവരിക്കുക.",
+          "പരിസ്ഥിതി സംരക്ഷണം എന്ന വിഷയത്തിൽ ഒരു ഖണ്ഡിക എഴുതുക.",
+          "വിദ്യാഭ്യാസത്തിന്റെ പ്രാധാന്യം എന്ന വിഷയത്തിൽ ഒരു നിബന്ധന എഴുതുക.",
+          "നിബന്ധനവും ലേഖനവും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "3",
+        "topic": "Vyakarana (Grammar)",
+        "questions": [
+          "അലങ്കാരം എന്ത്? ഉദാഹരണം തരിക.",
+          "ഉപമയുടെ ഒരു ഉദാഹരണം എഴുതുക.",
+          "സന്ധിയുടെ എത്ര തരം ഉണ്ട്?",
+          "വാക്യത്തിലെ കർത്താവിനെ എങ്ങനെ കണ്ടെത്താം?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "4",
+        "topic": "Katha (Story)",
+        "questions": [
+          "ഒരു നല്ല കഥയുടെ സവിശേഷതകൾ എന്തൊക്കെ?",
+          "ടി. പത്മനാഭന്റെ ഒരു പ്രശസ്ത കഥ ഏത്?",
+          "ഒരു കഥയിലെ കഥാപാത്രങ്ങൾ എങ്ങനെ രസകരമാക്കാം?",
+          "നിങ്ങളുടെ ഇഷ്ട കഥാകാരൻ ആരാണ്? എന്തുകൊണ്ട്?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch104d",
+    "assignments": [
+      {
+        "subjectName": "English",
+        "assNo": "1",
+        "topic": "A Letter to God",
+        "questions": [
+          "What did Lencho hope for?",
+          "Why did Lencho call the post office employees 'a bunch of crooks'?",
+          "How much money did Lencho receive?",
+          "What is the theme of the story?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "2",
+        "topic": "Nelson Mandela",
+        "questions": [
+          "What does Mandela mean by 'courage'?",
+          "What was the significance of the inauguration day?",
+          "What did Mandela learn about hate?",
+          "Why did Mandela say that the oppressor is also a prisoner?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "3",
+        "topic": "Two Stories about Flying",
+        "questions": [
+          "Why was the seagull afraid to fly?",
+          "How did the young seagull finally take his first flight?",
+          "What made the pilot of the Dakota plane afraid?",
+          "What was the strange black airplane?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "4",
+        "topic": "From the Diary of Anne Frank",
+        "questions": [
+          "Why did Anne Frank start writing a diary?",
+          "What did Anne name her diary?",
+          "Why did Anne think she had no real friends?",
+          "What was the punishment given to Anne for talking in class?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "1",
+        "topic": "The Rise of Nationalism in Europe",
+        "questions": [
+          "What was the French Revolution?",
+          "Who was Giuseppe Garibaldi?",
+          "What is the meaning of 'nation-state'?",
+          "What was the role of Otto von Bismarck in German unification?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "2",
+        "topic": "Nationalism in India",
+        "questions": [
+          "What was the Rowlatt Act?",
+          "What was the Jallianwala Bagh massacre?",
+          "Who led the Dandi March?",
+          "What was the Khilafat movement?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "3",
+        "topic": "The Making of a Global World",
+        "questions": [
+          "What was the Silk Route?",
+          "What was the Great Depression?",
+          "What is colonization?",
+          "How did trade affect the global economy in the 19th century?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "assNo": "4",
+        "topic": "The Age of Industrialisation",
+        "questions": [
+          "What was the Industrial Revolution?",
+          "Why did it start in England?",
+          "What was the role of steam engine?",
+          "What were the effects of industrialization on workers?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch105e",
+    "assignments": [
+      {
+        "subjectName": "Biology",
+        "assNo": "1",
+        "topic": "Life Processes",
+        "questions": [
+          "What is photosynthesis? Write its equation.",
+          "What is the role of the human heart?",
+          "What is the function of the kidneys?",
+          "Why is nutrition important for living organisms?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "2",
+        "topic": "Control and Coordination",
+        "questions": [
+          "What is a neuron? Draw its structure.",
+          "What is the function of the brain?",
+          "What are plant hormones? Give two examples.",
+          "What is reflex action? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "3",
+        "topic": "How do Organisms Reproduce?",
+        "questions": [
+          "What is the difference between asexual and sexual reproduction?",
+          "What is budding? Give an example.",
+          "What is the function of flowers in plants?",
+          "What are the male and female reproductive organs in humans?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "4",
+        "topic": "Heredity and Evolution",
+        "questions": [
+          "Who is known as the father of genetics?",
+          "What is a dominant trait? Give an example.",
+          "What is evolution?",
+          "What is the difference between inherited and acquired traits?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "5",
+        "topic": "Our Environment",
+        "questions": [
+          "What is an ecosystem?",
+          "What is a food chain? Give an example.",
+          "What is the role of decomposers?",
+          "What is ozone depletion? What causes it?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "assNo": "6",
+        "topic": "Management of Natural Resources",
+        "questions": [
+          "Why is water conservation important?",
+          "What are fossil fuels? Give examples.",
+          "What is sustainable development?",
+          "What is the 3R principle?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch101a",
+    "assignments": [
+      {
+        "subjectName": "Mathematics",
+        "assNo": "1",
+        "topic": "Sets",
+        "questions": [
+          "What is a set? Give two examples.",
+          "Write the roster form of the set of vowels in English alphabet.",
+          "If A = {1,2,3}, B = {3,4,5}, find A ∪ B and A ∩ B.",
+          "What is an empty set? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "2",
+        "topic": "Relations and Functions",
+        "questions": [
+          "What is a relation? Give an example.",
+          "What is a function? How is it different from a relation?",
+          "If f(x) = x² + 1, find f(2) and f(0).",
+          "What is the domain of the function f(x) = 1/(x-3)?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "3",
+        "topic": "Trigonometric Functions",
+        "questions": [
+          "Find the value of sin 30° + cos 60°.",
+          "Convert 45° into radians.",
+          "If sin θ = 3/5, find cos θ.",
+          "Prove that sin²θ + cos²θ = 1."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "4",
+        "topic": "Complex Numbers",
+        "questions": [
+          "What is iota (i)? What is the value of i²?",
+          "Simplify (3 + 2i) + (4 - 3i).",
+          "Find the conjugate of 5 - 7i.",
+          "Represent √-16 in terms of i."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch102b",
+    "assignments": [
+      {
+        "subjectName": "Physics",
+        "assNo": "1",
+        "topic": "Physical World and Units",
+        "questions": [
+          "What are fundamental and derived units? Give examples.",
+          "Convert 5 km into meters and centimeters.",
+          "What is the SI unit of force?",
+          "What is dimensional analysis? Give one application."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "2",
+        "topic": "Motion in a Straight Line",
+        "questions": [
+          "Define uniform and non-uniform motion.",
+          "A car starts from rest and gains a velocity of 20 m/s in 5 seconds. Find acceleration.",
+          "Write the three equations of motion.",
+          "What is the difference between distance and displacement?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "3",
+        "topic": "Laws of Motion",
+        "questions": [
+          "State Newton's three laws of motion with examples.",
+          "What is momentum? Write its formula and SI unit.",
+          "A force of 10 N acts on a 2 kg object. Find the acceleration produced.",
+          "Why do we wear seat belts in cars? Explain using Newton's laws."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "4",
+        "topic": "Work, Energy and Power",
+        "questions": [
+          "Define work. When is work said to be done?",
+          "What is kinetic energy? Derive its formula.",
+          "What is the law of conservation of energy?",
+          "A 10 kg object is raised to a height of 5 m. Find its potential energy (g = 10 m/s²)."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "1",
+        "topic": "Some Basic Concepts of Chemistry",
+        "questions": [
+          "What is the mole concept?",
+          "Calculate the molecular mass of H₂O (H=1, O=16).",
+          "How many moles are present in 18 g of water?",
+          "What is the difference between an atom and a molecule?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "2",
+        "topic": "Structure of Atom",
+        "questions": [
+          "What are the subatomic particles of an atom?",
+          "Draw the structure of an atom with 3 protons and 4 neutrons.",
+          "What is an isotope? Give an example.",
+          "What is the Bohr model of the atom?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "3",
+        "topic": "Classification of Elements",
+        "questions": [
+          "What is the modern periodic law?",
+          "What are periods and groups in the periodic table?",
+          "Where are metals located in the periodic table?",
+          "Why do elements in the same group have similar properties?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "4",
+        "topic": "Chemical Bonding",
+        "questions": [
+          "What is an ionic bond? Give an example.",
+          "What is a covalent bond? Give an example.",
+          "Why do atoms form chemical bonds?",
+          "What is the difference between ionic and covalent compounds?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch103c",
+    "assignments": [
+      {
+        "subjectName": "Computer",
+        "assNo": "1",
+        "topic": "Introduction to Computer System",
+        "questions": [
+          "What are the main components of a computer?",
+          "What is the difference between hardware and software?",
+          "What is an operating system? Name two.",
+          "What is the function of the CPU?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "2",
+        "topic": "Boolean Logic",
+        "questions": [
+          "What are the three basic logic gates?",
+          "Draw the truth table for AND gate.",
+          "What is the output of OR gate when inputs are 0 and 1?",
+          "What is the difference between AND and OR gate?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "3",
+        "topic": "Programming Basics",
+        "questions": [
+          "What is a variable in programming?",
+          "Write a C program to add two numbers.",
+          "What is the difference between while and for loop?",
+          "What is an array? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "assNo": "4",
+        "topic": "Networking Basics",
+        "questions": [
+          "What is a computer network?",
+          "What is the difference between LAN and WAN?",
+          "What is an IP address?",
+          "What is the internet? How is it different from the web?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "1",
+        "topic": "കാവ്യം (Poetry)",
+        "questions": [
+          "എട്ടുതൊട്ട് പത്താം നൂറ്റാണ്ടിലെ ഒരു പ്രധാന കവിയുടെ പേര് എഴുതുക.",
+          "'അഞ്ചുസന്ധികളുള്ള കവിത' എന്താണ് അറിയപ്പെടുന്നത്?",
+          "വൃത്തം, പ്രാസം, അലങ്കാരം എന്നിവയെക്കുറിച്ച് എഴുതുക.",
+          "കവിതയുടെ ഒരു ഉദാഹരണം എഴുതുക (2-4 വരികൾ)."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "2",
+        "topic": "ഗദ്യം (Prose)",
+        "questions": [
+          "ഗദ്യത്തിന്റെ പ്രധാന സവിശേഷതകൾ എഴുതുക.",
+          "ഒരു ലേഖനത്തിന്റെ ഘടന എങ്ങനെയായിരിക്കണം?",
+          "പ്രശസ്തനായ ഒരു മലയാള ഗദ്യകാരന്റെ പേര് എഴുതുക.",
+          "ഗദ്യത്തിനും പദ്യത്തിനും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "3",
+        "topic": "വ്യാകരണം (Grammar)",
+        "questions": [
+          "സന്ധി എത്ര തരം? ഉദാഹരണം തരിക.",
+          "സമാസം എന്ത്? ഉദാഹരണം തരിക.",
+          "പ്രത്യയങ്ങളുടെ ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "ഒരു വാക്യത്തിലെ കർത്താവും ക്രിയയും എങ്ങനെ കണ്ടെത്താം?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "4",
+        "topic": "ഉപന്യാസം (Essay Writing)",
+        "questions": [
+          "ഒരു നല്ല ഉപന്യാസത്തിന്റെ സവിശേഷതകൾ എന്തൊക്കെ?",
+          "പരിസ്ഥിതി സംരക്ഷണം എന്ന വിഷയത്തിൽ ഒരു ഉപന്യാസം എഴുതുക.",
+          "വിദ്യാഭ്യാസത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഒരു ഖണ്ഡിക എഴുതുക.",
+          "ഉപന്യാസവും ലേഖനവും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch104d",
+    "assignments": [
+      {
+        "subjectName": "English",
+        "assNo": "1",
+        "topic": "The Portrait of a Lady",
+        "questions": [
+          "Who is the author of 'The Portrait of a Lady'?",
+          "Describe the grandmother's appearance.",
+          "What was the daily routine of the grandmother?",
+          "Why was the grandmother upset about the author going to university?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "2",
+        "topic": "A Photograph (Poem)",
+        "questions": [
+          "Who wrote the poem 'A Photograph'?",
+          "What does the photograph show?",
+          "What emotion does the poet feel in the poem?",
+          "Explain the line: 'The sea holiday was her past, mine is her laughter.'"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "3",
+        "topic": "We're Not Afraid to Die",
+        "questions": [
+          "What was the name of the ship in the story?",
+          "What difficulties did the family face during the voyage?",
+          "How did the children show courage?",
+          "What was the condition of the ship after the storm?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "4",
+        "topic": "Grammar and Writing",
+        "questions": [
+          "Change the voice: 'She is writing a letter.'",
+          "Fill in the blank with correct tense: I ___ (see) him yesterday.",
+          "Write a letter to your principal requesting leave for two days.",
+          "Write a paragraph on 'My Favorite Teacher'."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch101a",
+    "assignments": [
+      {
+        "subjectName": "Mathematics",
+        "assNo": "1",
+        "topic": "Relations and Functions",
+        "questions": [
+          "What is a relation? Give an example.",
+          "What is a function? Differentiate between one-one and onto functions.",
+          "If f(x) = x² + 3x + 2, find f(2) and f(-1).",
+          "Find the domain of f(x) = √(x-2)."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "2",
+        "topic": "Inverse Trigonometric Functions",
+        "questions": [
+          "What is the principal value of sin⁻¹(1/2)?",
+          "Find the value of cos⁻¹(1/2) + sin⁻¹(1/2).",
+          "What is the domain of tan⁻¹x?",
+          "Prove that sin⁻¹x + cos⁻¹x = π/2 for x ∈ [-1,1]."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "3",
+        "topic": "Matrices",
+        "questions": [
+          "What is a matrix? Give an example of a 2x3 matrix.",
+          "Add matrices A = [1 2; 3 4] and B = [5 6; 7 8].",
+          "What is an identity matrix?",
+          "Find the transpose of matrix A = [1 2 3; 4 5 6]."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "4",
+        "topic": "Determinants",
+        "questions": [
+          "Find the determinant of [2 3; 4 5].",
+          "What is the value of determinant of an identity matrix of order 3?",
+          "If A is a 3x3 matrix and |A| = 5, find |2A|.",
+          "What is singular matrix? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "5",
+        "topic": "Continuity and Differentiability",
+        "questions": [
+          "What is continuity of a function?",
+          "Check if f(x) = x² is continuous at x=2.",
+          "Find dy/dx if y = x³ + 3x² + 5x.",
+          "What is the derivative of sin x?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "assNo": "6",
+        "topic": "Integrals",
+        "questions": [
+          "What is integration? Write the integral of x^n.",
+          "Find ∫ x² dx.",
+          "Find ∫ (3x² + 2x + 1) dx.",
+          "What is the difference between definite and indefinite integrals?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch102b",
+    "assignments": [
+      {
+        "subjectName": "Physics",
+        "assNo": "1",
+        "topic": "Electric Charges and Fields",
+        "questions": [
+          "What is quantization of charge?",
+          "State Coulomb's law. Write its formula.",
+          "What is an electric field? Write its SI unit.",
+          "What is the difference between conductors and insulators?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "2",
+        "topic": "Electrostatic Potential",
+        "questions": [
+          "What is electric potential? Write its SI unit.",
+          "What is the relationship between electric field and potential?",
+          "What is a capacitor?",
+          "Derive the expression for energy stored in a capacitor."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "3",
+        "topic": "Current Electricity",
+        "questions": [
+          "State Ohm's law.",
+          "What is resistivity? What does it depend on?",
+          "Three resistors 2Ω, 3Ω, 5Ω are connected in parallel. Find equivalent resistance.",
+          "What is Kirchhoff's junction rule?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "assNo": "4",
+        "topic": "Magnetism and Matter",
+        "questions": [
+          "What is a magnetic dipole?",
+          "What is the difference between paramagnetic and diamagnetic materials?",
+          "What is Earth's magnetic field?",
+          "What is magnetic susceptibility?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "1",
+        "topic": "Solid State",
+        "questions": [
+          "What are crystalline and amorphous solids?",
+          "What is a unit cell?",
+          "What are the seven crystal systems?",
+          "What is the difference between FCC and BCC?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "2",
+        "topic": "Solutions",
+        "questions": [
+          "What is a solution? Give types of solutions.",
+          "What is molarity? Write its formula.",
+          "What is Raoult's law?",
+          "What is an ideal solution? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "3",
+        "topic": "Electrochemistry",
+        "questions": [
+          "What is an electrochemical cell?",
+          "What is the difference between galvanic and electrolytic cells?",
+          "State Faraday's first law of electrolysis.",
+          "What is a standard hydrogen electrode?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "assNo": "4",
+        "topic": "Chemical Kinetics",
+        "questions": [
+          "What is the rate of a reaction?",
+          "What is the difference between average rate and instantaneous rate?",
+          "What is activation energy?",
+          "What is a catalyst? How does it affect reaction rate?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch103c",
+    "assignments": [
+      {
+        "subjectName": "Malayalam",
+        "assNo": "1",
+        "topic": "ആധുനിക കവിത",
+        "questions": [
+          "ആധുനിക മലയാള കവിതയുടെ പിതാവ് ആരാണ്?",
+          "ഒരു ആധുനിക കവിതയുടെ പേര് എഴുതുക.",
+          "ആധുനികതയുടെ സവിശേഷതകൾ എന്തൊക്കെ?",
+          "'നിരപയോഗി' എന്ന കവിത ആരുടേതാണ്?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "2",
+        "topic": "നോവൽ",
+        "questions": [
+          "ഒരു നോവലിന്റെ ഘടന എങ്ങനെയായിരിക്കും?",
+          "എം.ടി. വാസുദേവൻ നായരുടെ ഒരു പ്രശസ്ത നോവൽ ഏത്?",
+          "നോവലും കഥയും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?",
+          "മലയാളത്തിലെ ആദ്യ നോവൽ ഏതാണ്?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "3",
+        "topic": "ഭാഷാശാസ്ത്രം",
+        "questions": [
+          "ഭാഷയുടെ മൂലഘടകങ്ങൾ ഏതെല്ലാം?",
+          "വ്യാകരണത്തിന്റെ പ്രാധാന്യം എന്ത്?",
+          "ശബ്ദവും അർത്ഥവും തമ്മിലുള്ള ബന്ധം വിവരിക്കുക.",
+          "മലയാള ലിപിയുടെ ഉത്ഭവത്തെക്കുറിച്ച് എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "assNo": "4",
+        "topic": "വിമർശനം",
+        "questions": [
+          "സാഹിത്യ വിമർശനം എന്താണ്?",
+          "ഒരു കവിതയെ എങ്ങനെ വിമർശിക്കാം?",
+          "പ്രശസ്തനായ ഒരു മലയാള വിമർശകന്റെ പേര് എഴുതുക.",
+          "വിമർശനത്തിന്റെ പ്രാധാന്യം എന്ത്?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch104d",
+    "assignments": [
+      {
+        "subjectName": "English",
+        "assNo": "1",
+        "topic": "The Last Lesson",
+        "questions": [
+          "Who is the author of 'The Last Lesson'?",
+          "What did Franz realize about the last lesson?",
+          "Why was M. Hamel dressed in his finest clothes?",
+          "What message does the story convey?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "2",
+        "topic": "My Mother at Sixty-Six (Poem)",
+        "questions": [
+          "Who wrote the poem 'My Mother at Sixty-Six'?",
+          "What does the poet compare her mother to?",
+          "What emotion does the poet feel in the poem?",
+          "Explain the line: 'All I did was smile and smile and smile...'"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "3",
+        "topic": "Writing Skills",
+        "questions": [
+          "Write a notice for a school trip.",
+          "Write a letter to the editor about garbage in your locality.",
+          "Write an article on 'Importance of Yoga'.",
+          "What is the format of a formal letter?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "assNo": "4",
+        "topic": "Grammar",
+        "questions": [
+          "Change to passive: 'They are building a new school.'",
+          "Fill with correct preposition: He is good ___ mathematics.",
+          "Correct the sentence: 'She don't like coffee.'",
+          "Change to indirect speech: He said, 'I am happy.'"
+        ]
+      }
+    ]
+  },{
+  "clsId": "cls_plus2",
+  "tId": "tch103c",
+  "assignments": [
+    {
+      "subjectName": "Computer",
+      "assNo": "1",
+      "topic": "Advanced Programming Concepts",
+      "questions": [
+        "What is object-oriented programming?",
+        "What is the difference between class and object?",
+        "What is inheritance? Give an example.",
+        "What is polymorphism in programming?"
+      ]
+    },
+    {
+      "subjectName": "Computer",
+      "assNo": "2",
+      "topic": "Database Management",
+      "questions": [
+        "What is a database?",
+        "What is the difference between DBMS and RDBMS?",
+        "What is SQL? Write a query to select all records from a table.",
+        "What is a primary key?"
+      ]
+    },
+    {
+      "subjectName": "Computer",
+      "assNo": "3",
+      "topic": "Data Structures",
+      "questions": [
+        "What is an array? Give an example.",
+        "What is a stack? Explain LIFO.",
+        "What is a queue? Explain FIFO.",
+        "What is the difference between stack and queue?"
+      ]
+    },
+    {
+      "subjectName": "Computer",
+      "assNo": "4",
+      "topic": "Computer Networks",
+      "questions": [
+        "What is TCP/IP?",
+        "What is the difference between IPv4 and IPv6?",
+        "What is DNS? What does it do?",
+        "What is a firewall and how does it work?"
+      ]
+    }
+  ]
+}
+
+
+]

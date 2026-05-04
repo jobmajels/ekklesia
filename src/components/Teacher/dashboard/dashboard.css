@@ -1,0 +1,127 @@
+.mainbox{
+    display:flex;
+    max-height:100vh;
+    background-color:#f6fafe;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.mainbox .sec1{
+  background-color:#161853;
+  width:13vw;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+   padding:1rem 0.5rem 0 0.4rem;
+   box-sizing:border-box;
+   color:white;
+   object-fit:cover;
+   gap:7rem;
+   border-radius:0 7px 7px 0;
+}
+
+.mainbox .sec1 .dashCompont{
+    display:flex;
+    flex-direction:column;
+    gap:0.5rem;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.mainbox .sec1 .dashCompont .menuitem{
+    padding:0.5rem;
+    border-radius:5px;
+}
+.mainbox .sec1 .dashCompont .active{
+    background-color:#202392;
+}
+
+.mainbox .sec1 .dashCompont span:hover{
+    background-color:#1b1e68;
+}
+
+.mainbox .sec2{
+  width:69vw;
+  height:100vh;
+  height:auto;
+  display:flex;
+  flex-direction:column;
+   box-sizing:border-box;
+   gap:0.5rem;
+   padding-top:0.5rem;
+ 
+}
+
+.mainbox .sec2 .schoolname{
+    width:95%;
+    background-color:#f4f9fe;
+    margin:0 auto;
+}
+
+.mainbox .sec2 .Tname{
+    width:95%;
+    min-height:20vh;
+    height:auto;
+    background-color:white;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-between;   
+    box-shadow:0 0 4px rgb(193, 189, 189);
+    align-items:center;
+    padding:0 2rem 0 2rem;
+    box-sizing:border-box;
+}
+.mainbox .sec2 .Tschedule{
+  width:95%;
+  min-height:70%;
+  background-color:rgb(255, 255, 255);
+  margin:0.7rem auto 0.3rem;
+  box-shadow:0 0 4px rgb(193, 189, 189);
+  overflow-y:auto;
+   border-radius:5px;
+}
+
+.mainbox .sec2 .Tschedule .classDetails{
+  display:flex;
+  gap:1rem;
+  width:95%;
+  margin:1rem auto;
+  color:rgb(33, 31, 31);
+   padding:1rem;
+   font-size:1.2rem;
+   border-radius:3px;
+   box-shadow:0 0 4px rgb(193, 189, 189);
+   align-items:center;
+   justify-content:center;
+}
+
+.mainbox .sec2 .Tschedule .classDetails .classname{
+    color:#cb9d53;
+    width:15%;
+}
+.mainbox .sec2 .Tschedule .classDetails .chaptername{
+       color:#e24d46;
+       width:33%;
+}
+.mainbox .sec2 .Tschedule .classDetails .assExam{
+            color:#cb9d53;
+            width:12%;
+}
+
+.mainbox .sec2 .Tschedule .classDetails .time{
+          color:#cb9d53;
+          width:10%;
+}
+
+.mainbox .sec2 .Tschedule .classDetails .status{
+          color:#cb9d53;
+          width:20%;
+}
+
+
+.mainbox .sectp{
+ padding:1rem 0;
+}
+.mainbox .sectp .psec1{
+    font-size:1.3rem;
+    display:flex;
+    gap:2rem;
+}

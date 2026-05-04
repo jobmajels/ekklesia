@@ -1,0 +1,58 @@
+{
+  "subjectId": "chem_plus1_101",
+  "subjectName": "Chemistry",
+  "class": "Plus One",
+  "syllabusPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "chem_p1_ch1",
+      "chapterName": "Some Basic Concepts of Chemistry",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch2",
+      "chapterName": "Structure of Atom",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch3",
+      "chapterName": "Classification of Elements and Periodicity",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch4",
+      "chapterName": "Chemical Bonding and Molecular Structure",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch5",
+      "chapterName": "States of Matter",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch6",
+      "chapterName": "Thermodynamics",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch7",
+      "chapterName": "Equilibrium",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch8",
+      "chapterName": "Redox Reactions",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch9",
+      "chapterName": "Hydrogen",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "chem_p1_ch10",
+      "chapterName": "The s-Block Elements",
+      "notesPdf": "/pdfs/notes/plus1/Chemistry/Chemistry_Chapter_10.pdf"
+    }
+  ]
+}

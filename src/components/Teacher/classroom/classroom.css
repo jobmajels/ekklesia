@@ -1,0 +1,23 @@
+.Cmainbox{
+    background-color:rgb(219, 222, 255);
+    width:70vw;
+    margin:10vh auto;
+    border-radius:5px;
+    padding:2rem 3rem;
+    display:flex;
+    flex-direction:column;
+    gap:1.5rem;
+    border-radius:1rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Cmainbox .contentbox{
+  background-color:rgb(127, 135, 225);
+  height:7rem;
+}
+.Cmainbox h1{
+  color:rgb(27, 78, 78);
+}
+.Cmainbox button{
+    margin-top:3rem;
+}

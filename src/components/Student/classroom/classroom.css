@@ -1,0 +1,8 @@
+.Cmainbox{
+    background-color:rgb(252, 255, 174);
+    box-shadow:0 0 5px grey;
+}
+
+.Cmainbox h3{
+    color:rgb(15, 38, 58);
+}

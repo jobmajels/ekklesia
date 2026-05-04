@@ -1,0 +1,47 @@
+
+.samainbox .scheduledlist{
+    display:flex;
+   flex-direction:column;
+   width:100%;
+   margin-top:2rem;
+   border-top:3px solid #163832;
+   box-sizing:border-box;
+}
+
+
+.samainbox .scheduledlist .scheduleditem{
+    background-color:#dfecf7; 
+    padding:0.5rem 1rem;
+    border-radius:0.5rem;
+    box-sizing:border-box;
+    display:flex;
+    gap:1rem;
+    margin-top:1rem;
+    width:100%;
+    justify-content:space-between;
+    align-items:center;
+    color:#140943;
+    box-shadow: 0 0 5px #a2b6c5;
+}
+
+
+.samainbox .scheduledlist .scheduleditem .head{
+     display:flex;
+     flex-direction:column;
+     width:9rem;
+}
+
+.samainbox .scheduledlist .scheduleditem .title{
+   font-weight:600;
+}
+.samainbox .scheduledlist .scheduleditem button{
+    width:8rem;
+    background-color:#9ebcd6;
+    padding:5px;
+    border-radius:10px; 
+}
+.samainbox .scheduledlist .scheduleditem button:hover{
+    cursor:pointer;
+      background-color:#587c9b;
+      color:#d1dce7;
+}

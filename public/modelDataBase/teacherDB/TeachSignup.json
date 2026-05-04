@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tch101a",
+    "schoolid": "school101",
+    "fname": "Rahul",
+    "lname": "Nair",
+    "gender": "male",
+    "mail": "rahul.roy@gmail.com",
+    "phno": 9876543213,
+    "password": "teach789",
+    "role": "teacher",
+    "country": "India",
+    "state": "Kerala"
+  },
+  {
+    "id": "tch102b",
+    "schoolid": "school101",
+    "fname": "Meera",
+    "lname": "Nair",
+    "gender": "female",
+    "mail": "meera.pathros@gmail.com",
+    "phno": 9876543214,
+    "password": "teach101",
+    "role": "teacher",
+    "country": "India",
+    "state": "Kerala"
+  },
+  {
+    "id": "tch103c",
+    "schoolid": "school101",
+    "fname": "Arjun",
+    "lname": "Pillai",
+    "gender": "male",
+    "mail": "arjun.pillai@gmail.com",
+    "phno": 9876543215,
+    "password": "teach202",
+    "role": "teacher",
+    "country": "India",
+    "state": "Kerala"
+  },
+  {
+    "id": "tch104d",
+    "schoolid": "school101",
+    "fname": "Lakshmi",
+    "lname": "Warrier",
+    "gender": "female",
+    "mail": "lakshmi.baiju@gmail.com",
+    "phno": 9876543216,
+    "password": "teach303",
+    "role": "teacher",
+    "country": "India",
+    "state": "Kerala"
+  },
+  {
+    "id": "tch105e",
+    "schoolid": "school101",
+    "fname": "Vishnu",
+    "lname": "Menon",
+    "gender": "male",
+    "mail": "vishnu.joy@gmail.com",
+    "phno": 9876543217,
+    "password": "teach404",
+    "role": "teacher",
+    "country": "India",
+    "state": "Kerala"
+  }
+]

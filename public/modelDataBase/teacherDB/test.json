@@ -1,0 +1,1624 @@
+[
+  {
+    "clsId": "cls_9",
+    "tId": "tch101a",
+    "tests": [
+      {
+        "subjectName": "Mathematics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Number Systems",
+        "questions": [
+          "Express 0.777... in the form p/q.",
+          "Find the value of √(7+2√10).",
+          "Simplify: (2+√5)(3-√2).",
+          "Represent √5 on the number line.",
+          "Find three rational numbers between 2 and 3."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Polynomials",
+        "questions": [
+          "Find the remainder when x³ + 4x² + 5x + 2 is divided by x + 2.",
+          "Factorize: x² + 7x + 12.",
+          "If x + 1/x = 4, find x² + 1/x² and x⁴ + 1/x⁴.",
+          "Check if x = -1 is a zero of p(x) = x³ + 3x² + 3x + 1.",
+          "Find the value of k if (x-1) is a factor of x³ + kx² - 2x + 1."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Coordinate Geometry & Linear Equations",
+        "questions": [
+          "Which quadrant does the point (-5, -3) lie in?",
+          "Find the distance between points (3,4) and (6,8).",
+          "Find the midpoint of the line joining (2,3) and (4,7).",
+          "Write three solutions for the equation 2x + y = 7.",
+          "Draw the graph of y = 3x - 2 and find where it cuts the x-axis."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "Simplify: (3+√5)(3-√5).",
+          "Factorize: x³ - 6x² + 11x - 6.",
+          "Find the area of triangle with vertices (0,0), (4,0), (0,3).",
+          "Solve: 2x + 3y = 12 and x - y = 1.",
+          "Prove that √3 is irrational."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch102b",
+    "tests": [
+      {
+        "subjectName": "Physics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Motion",
+        "questions": [
+          "Define uniform circular motion. Give two examples.",
+          "A train travels 240 km in 4 hours. Calculate its average speed in m/s.",
+          "What is the difference between distance and displacement?",
+          "A ball is thrown up with 30 m/s. Find maximum height and time of flight (g=10 m/s²).",
+          "Draw a velocity-time graph for uniformly accelerated motion."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Force and Laws of Motion",
+        "questions": [
+          "State Newton's three laws of motion with examples.",
+          "What is inertia? Explain with two examples.",
+          "A force of 15 N acts on a 3 kg mass. Find acceleration and velocity after 4 seconds.",
+          "Why do passengers fall backward when a moving bus starts suddenly?",
+          "What is the relationship between force, mass, and acceleration?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Gravitation and Work",
+        "questions": [
+          "State the universal law of gravitation. Write its formula.",
+          "What is the value of g on Earth and on Moon?",
+          "Calculate the weight of a 10 kg object on Moon (g_moon = 1.63 m/s²).",
+          "Define work. A 60 kg person climbs 10 m stairs. Find work done (g=10 m/s²).",
+          "State the law of conservation of energy with a pendulum example."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "A car starts from rest and gains 25 m/s in 5 seconds. Find acceleration and distance covered.",
+          "Why does a cricket player pull his hands back while catching a ball?",
+          "What is the difference between mass and weight?",
+          "A stone is dropped from a height of 80 m. Find time to reach ground (g=10 m/s²).",
+          "What is kinetic energy? Derive its formula KE = ½mv²."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Matter in Our Surroundings",
+        "questions": [
+          "Why does a gas fill a container completely?",
+          "Convert 30°C to Kelvin and 600 K to Celsius.",
+          "What is latent heat of fusion and vaporization?",
+          "Why do we feel cool when water evaporates from our skin?",
+          "What is sublimation? Give two examples."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Is Matter Around Us Pure",
+        "questions": [
+          "What is the difference between a compound and a mixture?",
+          "How can you separate a mixture of salt, sand, and water?",
+          "What is a saturated solution? How can it be made unsaturated?",
+          "Define Tyndall effect with two examples.",
+          "What are colloids? Give two examples."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Atoms and Molecules",
+        "questions": [
+          "State the law of conservation of mass and law of constant proportion.",
+          "Calculate the molecular mass of Na₂SO₄ (Na=23, S=32, O=16).",
+          "How many moles are in 36g of H₂O?",
+          "What is the atomicity of O₃, P₄, CH₄, and H₂SO₄?",
+          "Calculate the number of molecules in 16g of CH₄."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Structure of the Atom",
+        "questions": [
+          "What are the subatomic particles of an atom? Write their charges and locations.",
+          "Draw the structure of a chlorine atom (atomic number 17).",
+          "What is the difference between isotopes and isobars? Give examples.",
+          "Why are electrons arranged in shells? Write the electronic configuration of calcium.",
+          "What is valency? Find the valency of carbon and oxygen."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch103c",
+    "tests": [
+      {
+        "subjectName": "Computer",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Introduction to Computers",
+        "questions": [
+          "What are the basic components of a computer system?",
+          "Define RAM and ROM. What is the difference between them?",
+          "What is an operating system? Give three examples.",
+          "Convert binary 1101 to decimal and decimal 25 to binary.",
+          "What is the difference between hardware and software?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Operating Systems and HTML",
+        "questions": [
+          "What are the five main functions of an operating system?",
+          "Differentiate between GUI and CUI with examples.",
+          "What does HTML stand for? Write the basic structure of an HTML document.",
+          "Write HTML code to display 'Welcome to Class 9' in red color and bold.",
+          "What is the difference between <ol> and <ul>? Give examples."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Cyber Safety and Security",
+        "questions": [
+          "What is a computer virus? How does it spread?",
+          "What is a strong password? Write 3 rules for creating strong passwords.",
+          "Define phishing and cyberbullying. How can you avoid them?",
+          "Why should you avoid sharing personal information online?",
+          "What is a firewall and how does it protect your computer?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "Explain the difference between system software and application software with examples.",
+          "What is a process? What is the difference between a process and a program?",
+          "Write HTML code to create a table with 3 rows and 2 columns.",
+          "What is cybercrime? Give three examples.",
+          "Convert: (a) 11101₂ to decimal (b) 42₁₀ to binary"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "കാവ്യം (Poetry)",
+        "questions": [
+          "വൃത്തം എന്ത്? രണ്ട് ഉദാഹരണങ്ങൾ നൽകുക.",
+          "വെണ്ണക്കണ്ണൻ എന്ന കവിതയുടെ കവി ആര്? ആ കവിതയുടെ പ്രമേയം എന്ത്?",
+          "പ്രാസം എന്താണ്? അതിന്റെ വിവിധ തരങ്ങൾ ഏതെല്ലാം?",
+          "കേരളത്തിലെ രണ്ട് പ്രശസ്ത ആധുനിക കവികളുടെ പേരുകൾ എഴുതുക.",
+          "ഒരു കവിതയിലെ അലങ്കാരങ്ങൾ എങ്ങനെ തിരിച്ചറിയാം?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "ഗദ്യവും വ്യാകരണവും (Prose and Grammar)",
+        "questions": [
+          "ഗദ്യത്തിന്റെ പ്രധാന സവിശേഷതകൾ എന്തൊക്കെ?",
+          "ഒരു ലേഖനത്തിന്റെ ഘടന എങ്ങനെയായിരിക്കണം?",
+          "സന്ധി എത്ര തരം? ഓരോന്നിനും രണ്ട് വീതം ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "സമാസം എന്ത്? അതിന്റെ തരങ്ങൾ വിശദീകരിക്കുക.",
+          "പ്രത്യയങ്ങളുടെ ഉദാഹരണങ്ങൾ എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "രചന (Writing Skills)",
+        "questions": [
+          "നിങ്ങളുടെ പ്രധാന അധ്യാപകന് നന്ദി പറഞ്ഞ് ഒരു കത്ത് എഴുതുക.",
+          "എന്റെ പ്രിയപ്പെട്ട വിനോദം എന്ന വിഷയത്തിൽ ഒരു ഖണ്ഡിക എഴുതുക.",
+          "ഒരു ഉപന്യാസത്തിന്റെ ഘടന എങ്ങനെയായിരിക്കണം?",
+          "യാത്രാവിവരണത്തിന്റെ സവിശേഷതകൾ വിശദീകരിക്കുക.",
+          "പരിസ്ഥിതി മലിനീകരണത്തെക്കുറിച്ച് ഒരു ഉപന്യാസം എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "പ്രശസ്തനായ ഒരു മലയാള കവിയുടെ ജീവിതവും കൃതികളും എഴുതുക.",
+          "ഒരു കഥയുടെ ഘടന വിശദീകരിക്കുക.",
+          "സന്ധിയും സമാസവും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?",
+          "വിദ്യാഭ്യാസത്തിന്റെ പ്രാധാന്യം എന്ന വിഷയത്തിൽ ഒരു ഉപന്യാസം എഴുതുക.",
+          "നിങ്ങളുടെ പ്രിയപ്പെട്ട പുസ്തകത്തെക്കുറിച്ച് ഒരു ഖണ്ഡിക എഴുതുക."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch104d",
+    "tests": [
+      {
+        "subjectName": "English",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The Fun They Had & Grammar",
+        "questions": [
+          "Who are Tommy and Margie? What did Tommy find in the attic?",
+          "How did the old schools look like according to the story?",
+          "Why did Margie hate the mechanical teacher?",
+          "Fill in the blanks with correct tense: She ___ (go) to school every day.",
+          "Change to passive voice: 'The boy eats an apple.'"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "The Sound of Music & Writing",
+        "questions": [
+          "Who is Evelyn Glennie? How did she lose her hearing?",
+          "What message does Evelyn's story give to the world?",
+          "Who helped Evelyn to learn music and how?",
+          "Write a paragraph on 'My Best Friend' in 100 words.",
+          "Write a letter to your friend inviting them to your birthday party."
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "The Little Girl & Grammar",
+        "questions": [
+          "What was Kezia's fear? Why was she afraid of her father?",
+          "How did Kezia's father change at the end of the story?",
+          "Why did Kezia tear the papers? What happened after that?",
+          "Change to indirect speech: He said, 'I am very happy today.'",
+          "Fill with correct preposition: He is good ___ mathematics."
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "What is the theme of the story 'The Fun They Had'?",
+          "Describe the character of Kezia's father in detail.",
+          "Write an essay on 'Importance of Education' in 150 words.",
+          "Change the voice: 'She is writing a letter to her mother.'",
+          "Write a diary entry about your first day at school."
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The French Revolution",
+        "questions": [
+          "When did the French Revolution begin? What were its main causes?",
+          "Who was Napoleon Bonaparte? What was his role in French history?",
+          "What is the Reign of Terror? Who led it?",
+          "Explain the slogan of the French Revolution: Liberty, Equality, Fraternity.",
+          "What was the role of women during the French Revolution?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Socialism in Europe",
+        "questions": [
+          "What was the Russian Revolution? When did it take place?",
+          "Who was Karl Marx? What were his main ideas?",
+          "What is the difference between Socialism and Capitalism?",
+          "Who were the Bolsheviks and Mensheviks?",
+          "What was the impact of the Russian Revolution on the world?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Nazism and the Rise of Hitler",
+        "questions": [
+          "Who was Adolf Hitler? How did he rise to power in Germany?",
+          "What was the Nazi ideology? What did they believe?",
+          "When did World War II start and end?",
+          "What was the Holocaust? How many Jews were killed?",
+          "What was the Enabling Act of 1933?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Forest Society and Colonialism",
+        "questions": [
+          "How did colonialism affect forests in India?",
+          "What was the Forest Act of 1865? What were its provisions?",
+          "Who were shifting cultivators? Why did the British want to stop them?",
+          "What is deforestation? Give three causes of deforestation in colonial India.",
+          "How did forest communities rebel against British forest laws?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_9",
+    "tId": "tch105e",
+    "tests": [
+      {
+        "subjectName": "Biology",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The Fundamental Unit of Life",
+        "questions": [
+          "Who discovered the cell? What is the cell theory?",
+          "What is the function of the nucleus, mitochondria, and ribosomes?",
+          "Differentiate between prokaryotic and eukaryotic cells with examples.",
+          "Why is the cell called the structural and functional unit of life?",
+          "Draw a labeled diagram of a plant cell."
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Tissues",
+        "questions": [
+          "What are the four types of animal tissues? Explain each briefly.",
+          "What is the function of xylem and phloem in plants?",
+          "Where is meristematic tissue found? What is its function?",
+          "Differentiate between voluntary and involuntary muscles with examples.",
+          "What is the difference between simple and complex permanent tissues?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Diversity and Health",
+        "questions": [
+          "What is the five-kingdom classification? Who proposed it?",
+          "Give two examples of mammals, birds, reptiles, and amphibians.",
+          "What is the difference between vertebrates and invertebrates?",
+          "What is a pathogen? Give two examples of bacterial and viral diseases.",
+          "How can we prevent malaria and dengue?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Natural Resources and Food",
+        "questions": [
+          "What is the water cycle? Explain with a diagram.",
+          "What are renewable and non-renewable resources? Give two examples of each.",
+          "What is the greenhouse effect? What are its effects on the environment?",
+          "What is crop rotation? Why is it important?",
+          "What is animal husbandry? Write its importance in agriculture."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch101a",
+    "tests": [
+      {
+        "subjectName": "Mathematics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Real Numbers",
+        "questions": [
+          "Find the HCF of 255 and 867 using Euclid's division lemma.",
+          "Prove that √3 is irrational.",
+          "What is a terminating decimal? Give an example with explanation.",
+          "Find the LCM and HCF of 12, 15, and 21 using prime factorization.",
+          "Show that any positive odd integer is of the form 6q+1, 6q+3, or 6q+5."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Polynomials",
+        "questions": [
+          "Find the zeros of p(x) = x² - 7x + 12.",
+          "Divide 2x³ - 3x² + 4x - 5 by x - 2.",
+          "If α and β are zeros of x² + 6x + 8, find α + β, αβ, and α² + β².",
+          "Find a quadratic polynomial whose zeros are 3 and -2.",
+          "What is the degree of the polynomial 5x⁴ - 3x² + 2x - 7?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Pair of Linear Equations",
+        "questions": [
+          "Solve: 2x + 3y = 13 and 5x - 2y = 4.",
+          "How many solutions does the pair x + 2y = 4 and 2x + 4y = 8 have? Why?",
+          "The sum of two numbers is 35 and their difference is 5. Find the numbers.",
+          "Solve graphically: x + y = 6 and x - y = 2.",
+          "For what value of k, the system kx + 3y = 6 and 2x + 6y = 12 has infinite solutions?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Quadratic Equations and Full Syllabus",
+        "questions": [
+          "Solve 2x² - 7x + 3 = 0 by quadratic formula.",
+          "Find the discriminant of x² + 4x + 4 = 0 and state the nature of roots.",
+          "Find k if x=3 is a root of x² + kx - 15 = 0.",
+          "The sum of squares of two consecutive even numbers is 100. Find the numbers.",
+          "Prove that √5 is irrational."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch102b",
+    "tests": [
+      {
+        "subjectName": "Physics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Light - Reflection and Refraction",
+        "questions": [
+          "State the laws of reflection of light. Draw a ray diagram.",
+          "What is the focal length of a spherical mirror? Derive the mirror formula.",
+          "A concave mirror has a radius of curvature of 30 cm. Find its focal length.",
+          "Why does a ray of light bend when it enters water from air? State Snell's law.",
+          "What is the difference between real and virtual images? Give examples."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "The Human Eye and Electricity",
+        "questions": [
+          "What is the function of the iris, lens, and retina in the human eye?",
+          "What is myopia and hypermetropia? How can they be corrected?",
+          "What is the near point and far point of a normal human eye?",
+          "State Ohm's law. Write its formula and SI units.",
+          "Three resistors 3Ω, 4Ω, 5Ω are connected in series. Find total resistance and current if 12V is applied."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Magnetic Effects of Current",
+        "questions": [
+          "What is an electromagnet? How is it different from a permanent magnet?",
+          "State Fleming's left-hand rule and right-hand rule.",
+          "What is a solenoid? Draw the magnetic field lines around a solenoid.",
+          "How does an electric motor work? Explain with a diagram.",
+          "What is electromagnetic induction? Who discovered it?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "A convex lens has a focal length of 20 cm. Find the position and nature of image when object is at 30 cm.",
+          "What is the power of a lens? Write its formula and SI unit.",
+          "Explain the working of an electric generator.",
+          "What is the difference between AC and DC current?",
+          "Calculate the equivalent resistance when 2Ω, 3Ω, and 6Ω are connected in parallel."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Chemical Reactions and Equations",
+        "questions": [
+          "Balance the equation: Al + HCl → AlCl₃ + H₂.",
+          "What is a combination reaction? Give two examples.",
+          "Why is respiration considered an exothermic reaction?",
+          "What is rancidity? How can it be prevented? Give two methods.",
+          "What is the difference between exothermic and endothermic reactions?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Acids, Bases and Salts",
+        "questions": [
+          "What is the pH of pure water? What is the pH range of acids and bases?",
+          "What happens when an acid reacts with a base? Give an example with equation.",
+          "Name three natural indicators used to test acids and bases.",
+          "Why does HCl gas not change dry litmus paper?",
+          "What is the common name of sodium chloride? Write its uses."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Metals and Non-metals",
+        "questions": [
+          "Why is sodium stored in kerosene? Why is phosphorus stored in water?",
+          "What is reactivity series? Arrange the following in increasing reactivity: Na, Cu, Fe, K.",
+          "Give two physical and two chemical properties of metals.",
+          "What happens when iron reacts with copper sulfate solution? Write the equation.",
+          "What is corrosion? How can it be prevented?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Carbon and its Compounds",
+        "questions": [
+          "What is the valency of carbon? Why is carbon called tetravalent?",
+          "What is the difference between saturated and unsaturated hydrocarbons? Give examples.",
+          "What is the functional group of alcohols, aldehydes, and ketones?",
+          "What are isomers? Draw the isomers of butane.",
+          "What is saponification? Write the chemical equation."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch103c",
+    "tests": [
+      {
+        "subjectName": "Computer",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "HTML and Web Technologies",
+        "questions": [
+          "What is the structure of an HTML document? Write the basic skeleton.",
+          "Write HTML code to create a table with 3 rows and 3 columns with border.",
+          "What is the use of <a> tag? Write code to create a link to Google.",
+          "How do you add a background color and image in HTML?",
+          "What is the difference between <div> and <span> tags?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Cyber Safety and Programming",
+        "questions": [
+          "What is a firewall? How does it protect your computer?",
+          "What is cyberbullying? How can you avoid it? Write three tips.",
+          "What is two-factor authentication? Why is it important?",
+          "Write a Python program to check if a number is even or odd.",
+          "What is the difference between = and == in programming?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Spreadsheet and Data Management",
+        "questions": [
+          "What is a cell in Excel? What is the difference between rows and columns?",
+          "Write the formula to add A1, B1, and C1 in Excel.",
+          "What is a function in spreadsheet? Give three examples with syntax.",
+          "What is conditional formatting? How is it useful?",
+          "How do you create a chart in Excel? Name three types of charts."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "What is the difference between a while loop and a for loop? Write examples.",
+          "What is an array? Write a Python program to find the largest element in an array.",
+          "What is a database? What is the difference between DBMS and RDBMS?",
+          "Write a SQL query to create a table named 'Student' with columns: id, name, age.",
+          "What is an IP address? What is the difference between IPv4 and IPv6?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "കാവ്യവും കവികളും (Poetry and Poets)",
+        "questions": [
+          "കുമാരനാശാന്റെ രണ്ട് പ്രശസ്ത കൃതികൾ ഏതൊക്കെ?",
+          "വള്ളത്തോളിന്റെ ഒരു കവിതയുടെ പേര് എഴുതുക. ആ കവിതയുടെ പ്രമേയം വിശദീകരിക്കുക.",
+          "ആധുനിക മലയാള കവിതയിലെ രണ്ട് പ്രധാന പ്രസ്ഥാനങ്ങൾ ഏതെല്ലാം?",
+          "ഒരു കവിതയിലെ താളവും യതിയും എങ്ങനെ നിർണയിക്കാം?",
+          "എൻ. എൻ. കക്കാടിന്റെ ഒരു കവിതയുടെ പേര് എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "നിബന്ധനവും ലേഖനവും (Essay and Article)",
+        "questions": [
+          "ഒരു നിബന്ധനത്തിന്റെ ഘടന വിവരിക്കുക. ഓരോ ഭാഗവും വിശദീകരിക്കുക.",
+          "പരിസ്ഥിതി സംരക്ഷണം എന്ന വിഷയത്തിൽ ഒരു ഖണ്ഡിക എഴുതുക.",
+          "വിദ്യാഭ്യാസത്തിന്റെ പ്രാധാന്യം എന്ന വിഷയത്തിൽ ഒരു നിബന്ധന എഴുതുക.",
+          "നിബന്ധനവും ലേഖനവും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?",
+          "യാത്രാവിവരണത്തിന്റെ സവിശേഷതകൾ എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "വ്യാകരണവും ഭാഷാശാസ്ത്രവും (Grammar and Linguistics)",
+        "questions": [
+          "അലങ്കാരം എന്ത്? രണ്ട് ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "ഉപമയുടെയും രൂപകത്തിന്റെയും ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "സന്ധിയുടെ എത്ര തരം ഉണ്ട്? ഓരോന്നിനും രണ്ട് ഉദാഹരണങ്ങൾ.",
+          "വാക്യത്തിലെ കർത്താവിനെയും ക്രിയയെയും എങ്ങനെ കണ്ടെത്താം?",
+          "ഭാഷയുടെ മൂലഘടകങ്ങൾ ഏതെല്ലാം? വിശദീകരിക്കുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "പ്രശസ്തനായ ഒരു മലയാള നോവലിസ്റ്റിന്റെ ജീവിതവും കൃതികളും എഴുതുക.",
+          "ഒരു കഥയുടെയും നോവലിന്റെയും ഘടന താരതമ്യം ചെയ്യുക.",
+          "വിമർശനത്തിന്റെ പ്രാധാന്യം എന്ത്? രണ്ട് വിമർശകരുടെ പേരുകൾ എഴുതുക.",
+          "സാഹിത്യത്തിലെ വിവിധ പ്രസ്ഥാനങ്ങൾ ഏതെല്ലാം?",
+          "നിങ്ങളുടെ പ്രിയപ്പെട്ട മലയാള പുസ്തകത്തെക്കുറിച്ച് ഒരു നിബന്ധന എഴുതുക."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch104d",
+    "tests": [
+      {
+        "subjectName": "English",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "A Letter to God",
+        "questions": [
+          "What did Lencho hope for? Why did he need money?",
+          "Why did Lencho call the post office employees 'a bunch of crooks'?",
+          "How much money did Lencho receive? Was he satisfied?",
+          "What is the theme of the story 'A Letter to God'?",
+          "What does the story teach us about faith and humanity?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Nelson Mandela and Grammar",
+        "questions": [
+          "What does Mandela mean by 'courage'? How does he define it?",
+          "What was the significance of the inauguration day for South Africa?",
+          "What did Mandela learn about hate and love?",
+          "Why did Mandela say that 'the oppressor is also a prisoner'?",
+          "Change to indirect speech: He said, 'I will come tomorrow.'"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "From the Diary of Anne Frank",
+        "questions": [
+          "Why did Anne Frank start writing a diary? What name did she give it?",
+          "Why did Anne think she had no real friends even though she had many?",
+          "What was the punishment given to Anne for talking in class?",
+          "How did Anne's relationship with her mother affect her?",
+          "What qualities of Anne Frank impress you the most?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "Write an essay on 'Importance of Reading' in 150 words.",
+          "Write a letter to the editor about increasing pollution in your city.",
+          "Change the voice: 'The teacher praised the student.'",
+          "Fill in the blanks with correct tense: She ___ (complete) her homework already.",
+          "Write a paragraph on 'My Role Model' in 100 words."
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The Rise of Nationalism in Europe",
+        "questions": [
+          "What was the French Revolution? What were its main outcomes?",
+          "Who was Giuseppe Garibaldi? What was his role in Italian unification?",
+          "What is the meaning of 'nation-state'? Give an example.",
+          "What was the role of Otto von Bismarck in German unification?",
+          "What was the Congress of Vienna? What were its main decisions?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Nationalism in India",
+        "questions": [
+          "What was the Rowlatt Act? Why did Indians protest against it?",
+          "What was the Jallianwala Bagh massacre? When did it happen?",
+          "Who led the Dandi March? What was its significance?",
+          "What was the Khilafat movement? Who led it?",
+          "What was the impact of the Non-Cooperation Movement?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "The Making of a Global World",
+        "questions": [
+          "What was the Silk Route? How did it connect different civilizations?",
+          "What was the Great Depression? When did it start and what were its effects?",
+          "What is colonization? How did it affect Asian and African countries?",
+          "How did trade affect the global economy in the 19th century?",
+          "What was the role of the Bretton Woods system?"
+        ]
+      },
+      {
+        "subjectName": "History",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "The Age of Industrialisation",
+        "questions": [
+          "What was the Industrial Revolution? When and where did it begin?",
+          "Why did the Industrial Revolution start in England? Give three reasons.",
+          "What was the role of the steam engine in the Industrial Revolution?",
+          "What were the effects of industrialization on workers and society?",
+          "What is the difference between the first and second Industrial Revolution?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_10",
+    "tId": "tch105e",
+    "tests": [
+      {
+        "subjectName": "Biology",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Life Processes",
+        "questions": [
+          "What is photosynthesis? Write its chemical equation.",
+          "What is the role of the human heart? Explain double circulation.",
+          "What is the function of the kidneys? How does excretion occur in humans?",
+          "Why is nutrition important for living organisms? What are the different modes of nutrition?",
+          "What is respiration? Differentiate between aerobic and anaerobic respiration."
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Control and Coordination",
+        "questions": [
+          "What is a neuron? Draw its labeled structure.",
+          "What are the functions of the cerebrum, cerebellum, and medulla oblongata?",
+          "What are plant hormones? Give two examples and their functions.",
+          "What is reflex action? Give two examples with the reflex arc.",
+          "How does the endocrine system help in coordination in humans?"
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Reproduction and Heredity",
+        "questions": [
+          "What is the difference between asexual and sexual reproduction? Give examples.",
+          "What is budding and fragmentation? Give examples of organisms that reproduce this way.",
+          "What is the function of flowers in plants? Label the parts of a flower.",
+          "Who is known as the father of genetics? What were Mendel's experiments?",
+          "What is a dominant trait and a recessive trait? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Biology",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Our Environment and Resources",
+        "questions": [
+          "What is an ecosystem? What are its components?",
+          "What is a food chain and food web? Give an example of each.",
+          "What is the role of decomposers in an ecosystem?",
+          "What is ozone depletion? What causes it and how can it be prevented?",
+          "What is the 3R principle? Why is sustainable development important?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch101a",
+    "tests": [
+      {
+        "subjectName": "Mathematics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Sets and Relations",
+        "questions": [
+          "What is a set? Write the different ways to represent a set with examples.",
+          "If A = {1,2,3,4}, B = {3,4,5,6}, find A ∪ B, A ∩ B, and A - B.",
+          "What is an empty set, finite set, and infinite set? Give examples.",
+          "What is a relation? Represent the relation R = {(1,2), (2,3), (3,4)} in roster form.",
+          "What is a function? How is it different from a relation? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Trigonometric Functions",
+        "questions": [
+          "Find the value of sin 45° + cos 45° + tan 45°.",
+          "Convert 60° into radians and 2π/3 radians into degrees.",
+          "If sin θ = 4/5, find cos θ and tan θ.",
+          "Prove that sin²θ + cos²θ = 1.",
+          "What is the value of sin 90°, cos 0°, and tan 45°?"
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Complex Numbers",
+        "questions": [
+          "What is iota (i)? What are the values of i², i³, and i⁴?",
+          "Simplify (4 + 3i) + (2 - 5i) and (3 + 2i) × (1 - i).",
+          "Find the conjugate of 6 - 4i and 2 + 3i.",
+          "Represent √-25 and √-49 in terms of i.",
+          "Solve: x² + 4 = 0 and find the roots."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "If A = {1,2,3}, B = {2,3,4}, C = {3,4,5}, find (A ∪ B) ∩ C.",
+          "Find the domain of f(x) = √(x-5) and f(x) = 1/(x-2).",
+          "If f(x) = x² + 2x + 1, find f(3) and f(-2).",
+          "Prove that (1 + tan²θ) = sec²θ.",
+          "Find the value of i¹⁰ + i²⁰ + i³⁰."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch102b",
+    "tests": [
+      {
+        "subjectName": "Physics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Units and Motion",
+        "questions": [
+          "What are fundamental and derived units? Give two examples of each.",
+          "Convert: 10 km into meters, 2 hours into seconds, and 100 cm into meters.",
+          "What is the SI unit of force, work, and power?",
+          "Define uniform and non-uniform motion with examples.",
+          "A car starts from rest and gains a velocity of 30 m/s in 10 seconds. Find acceleration and distance covered."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Laws of Motion",
+        "questions": [
+          "State Newton's three laws of motion with one example for each.",
+          "What is momentum? Write its formula and SI unit.",
+          "A force of 25 N acts on a 5 kg object. Find the acceleration produced.",
+          "Why do we wear seat belts in cars? Explain using Newton's first law.",
+          "What is the law of conservation of momentum? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Work, Energy and Power",
+        "questions": [
+          "Define work. When is work positive, negative, or zero?",
+          "What is kinetic energy? Derive the formula KE = ½mv².",
+          "What is the law of conservation of energy? Explain with a falling ball example.",
+          "A 15 kg object is raised to a height of 8 m. Find its potential energy (g = 10 m/s²).",
+          "What is power? A 60 W bulb consumes how much energy in 5 hours?"
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "A train travels 300 km in 5 hours. Find its average speed in m/s.",
+          "What is the difference between mass and weight? Explain with formula.",
+          "A ball of mass 0.5 kg is moving with velocity 10 m/s. Find its kinetic energy.",
+          "What is friction? What are the advantages and disadvantages of friction?",
+          "State and explain the three equations of motion."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Basic Concepts of Chemistry",
+        "questions": [
+          "What is the mole concept? Explain with an example.",
+          "Calculate the molecular mass of CO₂ and CaCO₃ (C=12, O=16, Ca=40).",
+          "How many moles are present in 90 g of water?",
+          "What is the difference between an atom and a molecule? Give examples.",
+          "What is Avogadro's number? What is its value?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Structure of Atom",
+        "questions": [
+          "What are the subatomic particles of an atom? Write their charges and masses.",
+          "Draw the structure of an atom with 5 protons and 6 neutrons.",
+          "What is an isotope? Give two examples with their mass numbers.",
+          "What is the Bohr model of the atom? Explain its postulates.",
+          "What is the difference between atomic number and mass number?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Periodic Classification",
+        "questions": [
+          "What is the modern periodic law? Who proposed it?",
+          "What are periods and groups in the periodic table? How many are there?",
+          "Where are metals, non-metals, and metalloids located in the periodic table?",
+          "Why do elements in the same group have similar chemical properties?",
+          "What are the trends in atomic radius and electronegativity across a period?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Chemical Bonding",
+        "questions": [
+          "What is an ionic bond? Give two examples with electron transfer.",
+          "What is a covalent bond? Give two examples with electron sharing.",
+          "Why do atoms form chemical bonds? What is the octet rule?",
+          "What is the difference between ionic and covalent compounds in properties?",
+          "What is a coordinate bond? Give an example."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch103c",
+    "tests": [
+      {
+        "subjectName": "Computer",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Computer System and Logic Gates",
+        "questions": [
+          "What are the main components of a computer system? Explain each.",
+          "What is the difference between hardware and software? Give two examples of each.",
+          "What is an operating system? Name three operating systems.",
+          "What are the three basic logic gates? Draw their symbols and truth tables.",
+          "What is the output of AND gate when inputs are 1 and 0? What about OR gate?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Programming Basics",
+        "questions": [
+          "What is a variable in programming? What are the rules for naming variables?",
+          "Write a C program to add two numbers entered by the user.",
+          "What is the difference between while loop and for loop? Write examples.",
+          "What is an array? Write a program to print all elements of an array.",
+          "What is an if-else statement? Write a program to check if a number is positive or negative."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Networking Basics",
+        "questions": [
+          "What is a computer network? What are its advantages?",
+          "What is the difference between LAN, MAN, and WAN? Give examples.",
+          "What is an IP address? What is the difference between IPv4 and IPv6?",
+          "What is the internet? How is it different from the World Wide Web?",
+          "What is DNS? How does it work?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "Write a Python program to find the factorial of a number.",
+          "What is the difference between compiler and interpreter?",
+          "What is a database? What is a primary key and foreign key?",
+          "Write a SQL query to create a table 'Employee' with columns: id, name, salary.",
+          "What is cyber security? Why is it important?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "കാവ്യവും കവികളും (Poetry and Poets)",
+        "questions": [
+          "എട്ടുതൊട്ട് പത്താം നൂറ്റാണ്ടിലെ ഒരു പ്രധാന കവിയുടെ പേരും കൃതിയും എഴുതുക.",
+          "അഞ്ചുസന്ധികളുള്ള കവിത എന്താണ് അറിയപ്പെടുന്നത്? വിശദീകരിക്കുക.",
+          "വൃത്തം, പ്രാസം, അലങ്കാരം എന്നിവയെക്കുറിച്ച് വിശദമായി എഴുതുക.",
+          "കുമാരനാശാന്റെ 'വീണപൂവ്' എന്ന കവിതയുടെ പ്രമേയം എന്ത്?",
+          "വള്ളത്തോളിന്റെ 'ബാല്യകാലസഖി' എന്ന കവിതയെക്കുറിച്ച് എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "ഗദ്യവും ലേഖനവും (Prose and Article)",
+        "questions": [
+          "ഗദ്യത്തിന്റെ പ്രധാന സവിശേഷതകൾ വിശദമായി എഴുതുക.",
+          "ഒരു ലേഖനത്തിന്റെ ഘടന എങ്ങനെയായിരിക്കണം? ഓരോ ഭാഗവും വിശദീകരിക്കുക.",
+          "പ്രശസ്തനായ ഒരു മലയാള ഗദ്യകാരന്റെ ജീവിതവും കൃതികളും എഴുതുക.",
+          "ഗദ്യത്തിനും പദ്യത്തിനും തമ്മിലുള്ള വ്യത്യാസങ്ങൾ എഴുതുക.",
+          "എം. ടി. വാസുദേവൻ നായരുടെ ഒരു പ്രശസ്ത ഗദ്യകൃതിയെക്കുറിച്ച് എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "വ്യാകരണവും രചനയും (Grammar and Composition)",
+        "questions": [
+          "സന്ധി എത്ര തരം? ഓരോന്നിനും മൂന്ന് ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "സമാസം എന്ത്? അതിന്റെ വിവിധ തരങ്ങൾ വിശദീകരിക്കുക.",
+          "പ്രത്യയങ്ങളുടെ ഉദാഹരണങ്ങൾ എഴുതുക.",
+          "ഒരു വാക്യത്തിലെ കർത്താവും ക്രിയയും എങ്ങനെ കണ്ടെത്താം?",
+          "ഒരു ഉപന്യാസത്തിന്റെ ഘടന വിശദീകരിക്കുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "ആധുനിക മലയാള സാഹിത്യത്തിലെ പ്രധാന പ്രസ്ഥാനങ്ങൾ ഏതെല്ലാം?",
+          "ഒരു നോവലിന്റെ ഘടന വിശദീകരിക്കുക. മലയാളത്തിലെ ആദ്യ നോവൽ ഏത്?",
+          "സാഹിത്യ വിമർശനത്തിന്റെ പ്രാധാന്യം എന്ത്?",
+          "പരിസ്ഥിതി സംരക്ഷണം എന്ന വിഷയത്തിൽ ഒരു ഉപന്യാസം എഴുതുക.",
+          "നിങ്ങളുടെ പ്രിയപ്പെട്ട മലയാള കവിയെക്കുറിച്ച് ഒരു ഖണ്ഡിക എഴുതുക."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus1",
+    "tId": "tch104d",
+    "tests": [
+      {
+        "subjectName": "English",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The Portrait of a Lady",
+        "questions": [
+          "Who is the author of 'The Portrait of a Lady'?",
+          "Describe the grandmother's appearance and daily routine.",
+          "Why was the grandmother upset about the author going to university?",
+          "What was the grandmother's reaction on the author's return from abroad?",
+          "What is the central theme of the story 'The Portrait of a Lady'?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Poetry and Grammar",
+        "questions": [
+          "Who wrote the poem 'A Photograph'? What does the photograph show?",
+          "What emotion does the poet feel in the poem 'A Photograph'?",
+          "Explain the line: 'The sea holiday was her past, mine is her laughter.'",
+          "Change the voice: 'She is writing a letter to her friend.'",
+          "Fill in the blank with correct tense: They ___ (live) here since 2010."
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "We're Not Afraid to Die",
+        "questions": [
+          "What was the name of the ship in the story?",
+          "What difficulties did the family face during the voyage?",
+          "How did the children show courage during the storm?",
+          "What was the condition of the ship after the storm?",
+          "What is the message of the story 'We're Not Afraid to Die'?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "Write a letter to your principal requesting leave for three days.",
+          "Write a paragraph on 'The Importance of Discipline' in 100 words.",
+          "Change to indirect speech: He said, 'I am going to the market.'",
+          "Fill with correct preposition: She is interested ___ learning French.",
+          "Write an essay on 'My Favorite Hobby' in 150 words."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch101a",
+    "tests": [
+      {
+        "subjectName": "Mathematics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Relations and Functions",
+        "questions": [
+          "What is a relation? Give an example. What is a function?",
+          "Differentiate between one-one and onto functions with examples.",
+          "If f(x) = x² + 5x + 6, find f(2), f(-1), and f(0).",
+          "Find the domain of f(x) = √(x-3) and f(x) = 1/(x-5).",
+          "If f(x) = 2x + 3 and g(x) = x², find fog(x) and gof(x)."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Inverse Trigonometric Functions",
+        "questions": [
+          "What is the principal value of sin⁻¹(1/2) and cos⁻¹(1/2)?",
+          "Find the value of tan⁻¹(1) + cot⁻¹(1).",
+          "What is the domain and range of sin⁻¹x and cos⁻¹x?",
+          "Prove that sin⁻¹x + cos⁻¹x = π/2 for x ∈ [-1,1].",
+          "Find the value of sin⁻¹(√3/2) + cos⁻¹(0)."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Matrices and Determinants",
+        "questions": [
+          "What is a matrix? Give an example of a 3x2 matrix.",
+          "Add matrices A = [1 3; 2 4] and B = [5 7; 6 8].",
+          "What is an identity matrix? Find the determinant of a 2x2 identity matrix.",
+          "Find the transpose of matrix A = [1 2 3; 4 5 6].",
+          "If A = [2 3; 4 5], find |A| and |2A|."
+        ]
+      },
+      {
+        "subjectName": "Mathematics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Continuity, Differentiability, and Integrals",
+        "questions": [
+          "What is continuity of a function? Check if f(x) = x² is continuous at x=3.",
+          "Find dy/dx if y = x⁴ + 3x³ + 2x² + x + 1.",
+          "What is the derivative of sin x, cos x, and tan x?",
+          "Find ∫ (x³ + 2x² + 1) dx.",
+          "What is the difference between definite and indefinite integrals? Evaluate ∫₀² x² dx."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch102b",
+    "tests": [
+      {
+        "subjectName": "Physics",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Electric Charges and Fields",
+        "questions": [
+          "What is quantization of charge? Write the formula for Coulomb's law.",
+          "State Coulomb's law. Write its formula and SI unit of charge.",
+          "What is an electric field? Write its SI unit and formula.",
+          "What is the difference between conductors and insulators? Give two examples of each.",
+          "Two charges of 2μC and 3μC are placed 0.1 m apart. Find the force between them (k = 9×10⁹)."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Electrostatic Potential and Current Electricity",
+        "questions": [
+          "What is electric potential? Write its SI unit and formula.",
+          "What is the relationship between electric field and potential?",
+          "What is a capacitor? Derive the expression for energy stored in a capacitor.",
+          "State Ohm's law. What is resistivity? What does it depend on?",
+          "Three resistors 2Ω, 4Ω, 6Ω are connected in parallel. Find equivalent resistance."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Magnetism and Matter",
+        "questions": [
+          "What is a magnetic dipole? Give an example.",
+          "What is the difference between paramagnetic, diamagnetic, and ferromagnetic materials?",
+          "What is Earth's magnetic field? What are its components?",
+          "What is magnetic susceptibility and magnetic permeability?",
+          "What is a solenoid? Draw the magnetic field lines inside and outside a solenoid."
+        ]
+      },
+      {
+        "subjectName": "Physics",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "What is Kirchhoff's junction rule and loop rule?",
+          "A 10V battery is connected across a 5Ω resistor. Find the current and power dissipated.",
+          "What is electromagnetic induction? State Faraday's laws.",
+          "What is the difference between AC and DC?",
+          "What is a transformer? Explain its working principle."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Solid State",
+        "questions": [
+          "What are crystalline and amorphous solids? Give two examples of each.",
+          "What is a unit cell? What are the seven crystal systems?",
+          "What is the difference between FCC and BCC?",
+          "What is a lattice? What is the coordination number of FCC and BCC?",
+          "What are the defects in crystals? Explain point defects."
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Solutions",
+        "questions": [
+          "What is a solution? Give the different types of solutions with examples.",
+          "What is molarity? Write its formula. Calculate the molarity of 0.5 moles in 2L solution.",
+          "What is Raoult's law for an ideal solution?",
+          "What is an ideal solution? Give an example. What is a non-ideal solution?",
+          "What is the difference between molarity and molality?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Electrochemistry",
+        "questions": [
+          "What is an electrochemical cell? What are its components?",
+          "What is the difference between galvanic cell and electrolytic cell?",
+          "State Faraday's first law of electrolysis. Write the formula.",
+          "What is a standard hydrogen electrode? What is its potential?",
+          "What is the Nernst equation? What does it calculate?"
+        ]
+      },
+      {
+        "subjectName": "Chemistry",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Chemical Kinetics",
+        "questions": [
+          "What is the rate of a reaction? What is the difference between average rate and instantaneous rate?",
+          "What is activation energy? How does it affect the rate of a reaction?",
+          "What is a catalyst? How does it affect the rate of a reaction?",
+          "What is the order of a reaction? What is the difference between order and molecularity?",
+          "The rate constant of a reaction is 0.02 s⁻¹. What is the order of the reaction?"
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch103c",
+    "tests": [
+      {
+        "subjectName": "Computer",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "Advanced Programming Concepts",
+        "questions": [
+          "What is object-oriented programming? What are its main features?",
+          "What is the difference between a class and an object? Give an example.",
+          "What is inheritance? Explain single, multiple, and multilevel inheritance with examples.",
+          "What is polymorphism? Explain compile-time and runtime polymorphism.",
+          "What is encapsulation and abstraction? How are they achieved in OOP?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "Database Management",
+        "questions": [
+          "What is a database? What is the difference between DBMS and RDBMS?",
+          "What is SQL? Write a query to create a table named 'Student' with columns: rollno, name, marks.",
+          "What is a primary key? What is a foreign key? Give an example of each.",
+          "Write a SQL query to insert a record into the Student table.",
+          "Write a SQL query to select all students who scored more than 80 marks."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Data Structures",
+        "questions": [
+          "What is an array? What are the advantages and disadvantages of arrays?",
+          "What is a stack? Explain the LIFO principle. Write the push and pop operations.",
+          "What is a queue? Explain the FIFO principle. Write the enqueue and dequeue operations.",
+          "What is the difference between a stack and a queue? Give examples of where each is used.",
+          "What is a linked list? How is it different from an array?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Computer Networks",
+        "questions": [
+          "What is TCP/IP? Explain the layers of the TCP/IP model.",
+          "What is the difference between IPv4 and IPv6? Why was IPv6 introduced?",
+          "What is DNS? How does DNS work?",
+          "What is a firewall? How does it protect a network?",
+          "What is the difference between HTTP and HTTPS? Which is more secure and why?"
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "ആധുനിക കവിത",
+        "questions": [
+          "ആധുനിക മലയാള കവിതയുടെ പിതാവ് ആരാണ്? എന്തുകൊണ്ട്?",
+          "ഒരു ആധുനിക കവിതയുടെ പേരും കവിയും എഴുതുക. ആ കവിതയുടെ പ്രമേയം വിശദീകരിക്കുക.",
+          "ആധുനികതയുടെ സവിശേഷതകൾ എന്തൊക്കെ?",
+          "'നിരപയോഗി' എന്ന കവിത ആരുടേതാണ്? ആ കവിതയുടെ ഉള്ളടക്കം എന്ത്?",
+          "ആധുനിക കവിതയും പാരമ്പര്യ കവിതയും തമ്മിലുള്ള വ്യത്യാസങ്ങൾ എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "നോവൽ",
+        "questions": [
+          "ഒരു നോവലിന്റെ ഘടന എങ്ങനെയായിരിക്കും? ഓരോ ഭാഗവും വിശദീകരിക്കുക.",
+          "എം.ടി. വാസുദേവൻ നായരുടെ ഒരു പ്രശസ്ത നോവലിന്റെ പേരും കഥാസംഗ്രഹവും എഴുതുക.",
+          "നോവലും കഥയും തമ്മിലുള്ള വ്യത്യാസം എന്ത്?",
+          "മലയാളത്തിലെ ആദ്യ നോവൽ ഏതാണ്? ആരാണ് രചിച്ചത്?",
+          "നോവലിന്റെ വിവിധ തരങ്ങൾ ഏതെല്ലാം? ഓരോന്നിനും ഉദാഹരണങ്ങൾ നൽകുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "ഭാഷാശാസ്ത്രവും വിമർശനവും",
+        "questions": [
+          "ഭാഷയുടെ മൂലഘടകങ്ങൾ ഏതെല്ലാം? വിശദീകരിക്കുക.",
+          "വ്യാകരണത്തിന്റെ പ്രാധാന്യം എന്ത്?",
+          "ശബ്ദവും അർത്ഥവും തമ്മിലുള്ള ബന്ധം വിവരിക്കുക.",
+          "സാഹിത്യ വിമർശനം എന്താണ്? അതിന്റെ പ്രാധാന്യം എന്ത്?",
+          "പ്രശസ്തനായ ഒരു മലയാള വിമർശകന്റെ പേരും കൃതികളും എഴുതുക."
+        ]
+      },
+      {
+        "subjectName": "Malayalam",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Full Syllabus",
+        "questions": [
+          "മലയാള സാഹിത്യത്തിലെ വിവിധ പ്രസ്ഥാനങ്ങൾ ഏതെല്ലാം? വിശദീകരിക്കുക.",
+          "ഒരു കവിതയെ എങ്ങനെ വിമർശിക്കാം? ഘടനാപരമായി വിശദീകരിക്കുക.",
+          "സാഹിത്യത്തിന്റെ വിവിധ രൂപങ്ങൾ ഏതെല്ലാം?",
+          "മലയാള ലിപിയുടെ ഉത്ഭവത്തെക്കുറിച്ച് എഴുതുക.",
+          "നിങ്ങളുടെ പ്രിയപ്പെട്ട മലയാള നോവലിനെക്കുറിച്ച് ഒരു നിബന്ധന എഴുതുക."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch104d",
+    "tests": [
+      {
+        "subjectName": "English",
+        "testNo": "1",
+        "testType": "Unit Test",
+        "topic": "The Last Lesson",
+        "questions": [
+          "Who is the author of 'The Last Lesson'?",
+          "What did Franz realize about the last lesson?",
+          "Why was M. Hamel dressed in his finest clothes?",
+          "What message does the story 'The Last Lesson' convey?",
+          "How did the villagers react to the last lesson?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "2",
+        "testType": "Unit Test",
+        "topic": "My Mother at Sixty-Six (Poem)",
+        "questions": [
+          "Who wrote the poem 'My Mother at Sixty-Six'?",
+          "What does the poet compare her mother to in the poem?",
+          "What emotion does the poet feel in the poem 'My Mother at Sixty-Six'?",
+          "Explain the line: 'All I did was smile and smile and smile...'",
+          "What is the central theme of the poem?"
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "3",
+        "testType": "Half-Yearly",
+        "topic": "Writing Skills",
+        "questions": [
+          "Write a notice for a school trip to a historical place.",
+          "Write a letter to the editor about the increasing garbage in your locality.",
+          "Write an article on 'Importance of Yoga' in 150 words.",
+          "What is the format of a formal letter? Write all parts.",
+          "Write a report on the Annual Day celebration in your school."
+        ]
+      },
+      {
+        "subjectName": "English",
+        "testNo": "4",
+        "testType": "Annual Exam",
+        "topic": "Grammar and Full Syllabus",
+        "questions": [
+          "Change to passive voice: 'They are building a new hospital.'",
+          "Fill with correct preposition: He is good ___ mathematics and science.",
+          "Correct the sentence: 'She don't like to eat vegetables.'",
+          "Change to indirect speech: He said, 'I will meet you tomorrow.'",
+          "Write an essay on 'The Role of Technology in Education' in 200 words."
+        ]
+      }
+    ]
+  },
+  {
+    "clsId": "cls_plus2",
+    "tId": "tch103c",
+    "tests": [
+      {
+        "subjectName": "Computer",
+        "testNo": "5",
+        "testType": "Unit Test",
+        "topic": "Advanced Programming Concepts",
+        "questions": [
+          "What is object-oriented programming?",
+          "What is the difference between class and object?",
+          "What is inheritance? Give an example.",
+          "What is polymorphism in programming?",
+          "What is encapsulation and why is it important?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "6",
+        "testType": "Unit Test",
+        "topic": "Database Management",
+        "questions": [
+          "What is a database?",
+          "What is the difference between DBMS and RDBMS?",
+          "What is SQL? Write a query to select all records from a table.",
+          "What is a primary key?",
+          "What is a foreign key? Give an example."
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "7",
+        "testType": "Half-Yearly",
+        "topic": "Data Structures",
+        "questions": [
+          "What is an array? Give an example.",
+          "What is a stack? Explain LIFO.",
+          "What is a queue? Explain FIFO.",
+          "What is the difference between stack and queue?",
+          "What is a linked list? How is it different from an array?"
+        ]
+      },
+      {
+        "subjectName": "Computer",
+        "testNo": "8",
+        "testType": "Annual Exam",
+        "topic": "Computer Networks",
+        "questions": [
+          "What is TCP/IP?",
+          "What is the difference between IPv4 and IPv6?",
+          "What is DNS? What does it do?",
+          "What is a firewall and how does it work?",
+          "What is the difference between HTTP and HTTPS?"
+        ]
+      }
+    ]
+  }
+]

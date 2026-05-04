@@ -1,0 +1,58 @@
+{
+  "subjectId": "phy_plus2_101",
+  "subjectName": "Physics",
+  "class": "Plus Two",
+  "syllabusPdf": "/pdfs/notes/plus2/Physics/Physics_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "phy_p2_ch1",
+      "chapterName": "Electric Charges and Fields",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch2",
+      "chapterName": "Electrostatic Potential and Capacitance",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch3",
+      "chapterName": "Current Electricity",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch4",
+      "chapterName": "Moving Charges and Magnetism",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch5",
+      "chapterName": "Magnetism and Matter",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch6",
+      "chapterName": "Electromagnetic Induction",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch7",
+      "chapterName": "Alternating Current",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch8",
+      "chapterName": "Electromagnetic Waves",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch9",
+      "chapterName": "Ray Optics and Optical Instruments",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "phy_p2_ch10",
+      "chapterName": "Wave Optics",
+      "notesPdf": "/pdfs/notes/plus2/Physics/Physics_Chapter_10.pdf"
+    }
+  ]
+}

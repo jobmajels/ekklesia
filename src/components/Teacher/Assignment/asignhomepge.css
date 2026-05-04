@@ -1,0 +1,31 @@
+.asgmainbox{
+    width:80vw;
+    background-color:white;
+    padding:2rem 0;
+    margin:3rem auto;
+    box-shadow:0 0 5px grey;
+    border-radius:5px;
+}
+
+.asgmainbox .asgcont{
+    width:80%;
+    padding:1rem;
+    background-color:rgba(190, 31, 238, 0.292);
+    margin:auto;
+    border-radius:5px;
+}
+
+.asgmainbox .asgcont .asglistitem{
+          background-color:rgb(187, 33, 234);
+          padding:1rem;
+           border-radius:10px;
+        box-shadow:0 0 5px rgb(116, 7, 150),0 0 7px rgb(87, 4, 112);
+        margin-bottom:2rem;
+}
+
+.asgmainbox .asgcont .asghead span{
+         font-size:1.5rem;
+         display:inline-block;
+         margin:0 0 1rem 1rem;
+         font-weight:600;
+}

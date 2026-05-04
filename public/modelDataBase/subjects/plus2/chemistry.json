@@ -1,0 +1,58 @@
+{
+  "subjectId": "chem_plus2_101",
+  "subjectName": "Chemistry",
+  "class": "Plus Two",
+  "syllabusPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "chem_p2_ch1",
+      "chapterName": "Solid State",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch2",
+      "chapterName": "Solutions",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch3",
+      "chapterName": "Electrochemistry",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch4",
+      "chapterName": "Chemical Kinetics",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch5",
+      "chapterName": "Surface Chemistry",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch6",
+      "chapterName": "General Principles and Processes of Isolation of Elements",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch7",
+      "chapterName": "The p-Block Elements",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch8",
+      "chapterName": "The d and f Block Elements",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch9",
+      "chapterName": "Coordination Compounds",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "chem_p2_ch10",
+      "chapterName": "Haloalkanes and Haloarenes",
+      "notesPdf": "/pdfs/notes/plus2/Chemistry/Chemistry_Chapter_10.pdf"
+    }
+  ]
+}

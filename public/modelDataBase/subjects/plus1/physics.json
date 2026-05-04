@@ -1,0 +1,58 @@
+{
+  "subjectId": "phy_plus1_101",
+  "subjectName": "Physics",
+  "class": "Plus One",
+  "syllabusPdf": "/pdfs/notes/plus1/Physics/Physics_Syllabus.pdf",
+  "chapters": [
+    {
+      "chapterId": "phy_p1_ch1",
+      "chapterName": "Physical World",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_1.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch2",
+      "chapterName": "Units and Measurements",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_2.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch3",
+      "chapterName": "Motion in a Straight Line",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_3.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch4",
+      "chapterName": "Motion in a Plane",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_4.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch5",
+      "chapterName": "Laws of Motion",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_5.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch6",
+      "chapterName": "Work, Energy and Power",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_6.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch7",
+      "chapterName": "System of Particles and Rotational Motion",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_7.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch8",
+      "chapterName": "Gravitation",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_8.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch9",
+      "chapterName": "Mechanical Properties of Solids",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_9.pdf"
+    },
+    {
+      "chapterId": "phy_p1_ch10",
+      "chapterName": "Mechanical Properties of Fluids",
+      "notesPdf": "/pdfs/notes/plus1/Physics/Physics_Chapter_10.pdf"
+    }
+  ]
+}

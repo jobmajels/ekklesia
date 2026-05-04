@@ -1,0 +1,97 @@
+.maincontainer{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+.maincontainer .logininfos{
+      position:absolute;
+      left:5vw;
+      border:1px solid black;
+}
+
+.maincontainer .logininfos div{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+}
+.maincontainer .sec1 img{
+    width:10rem;
+     margin-bottom:2rem;
+}
+
+.maincontainer .sec1{
+    width:30vw;
+    height:93vh;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    box-shadow:0 0 5px grey;
+    border-radius:5px;
+     font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    color:rgb(126, 10, 126);
+    background-image:url("../../assets//images/bglogin.jfif");
+    object-fit:cover;
+}
+
+.maincontainer .sec1 form {
+    display:flex;
+    flex-direction:column;
+}
+.maincontainer .sec1 form input{
+    margin-bottom:1rem;
+    background-color:transparent;
+    border:3px solid rgb(126, 10, 126);
+    border-radius:5px;
+    padding:5px;
+
+}
+
+.maincontainer .sec1 form .pwdsec {
+    display:flex;
+    flex-direction:column;
+}
+.maincontainer .sec1 form .pwdsec .eicon{
+    align-self:flex-end;
+    position:absolute;
+    margin:1.8rem 5px 0 0;
+}
+.maincontainer .sec1 form .pwdsec .eicon:hover{
+    cursor:pointer;
+}
+
+.maincontainer .sec1 form button{
+    margin:auto;
+    background-color:transparent;
+    border:3px solid rgb(220, 209, 220);
+    border-radius:5px;
+    color:rgb(126, 10, 126);
+    padding:5px;
+    font-weight:600;
+
+}
+.maincontainer .sec1 form button:hover{
+    background-color:#FF6B5A;
+    color:white;
+     cursor:pointer;
+}
+
+.maincontainer .sec1 span{
+    align-self:last baseline;
+    margin:1rem 1rem 0 0 ;
+     color:rgb(113, 8, 113);
+     font-weight:600;
+}
+
+.maincontainer .sec1 span .signup{
+    text-decoration:none;
+    color:rgb(113, 8, 113);
+}
+
+.maincontainer .sec1 span .signup:hover{
+  color:#FF6B5A;
+  cursor:pointer;
+} 
